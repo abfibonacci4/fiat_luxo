@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c048ae25d3fe",
+    "class": "book",
+    "avg_confidence": 0.8744,
+    "image": "images/c048ae25d3fe.jpg"
+  },
+  {
+    "id": "3334a433f60a",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/3334a433f60a.jpg"
+  },
+  {
+    "id": "aadec9ec9129",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/aadec9ec9129.jpg"
+  },
+  {
+    "id": "a90a394efbed",
+    "class": "mouse",
+    "avg_confidence": 0.9262,
+    "image": "images/a90a394efbed.jpg"
+  },
+  {
+    "id": "3c8700ccb1f0",
+    "class": "remote",
+    "avg_confidence": 0.4654,
+    "image": "images/3c8700ccb1f0.jpg"
+  },
+  {
+    "id": "3dd46c0389c0",
+    "class": "scissors",
+    "avg_confidence": 0.7063,
+    "image": "images/3dd46c0389c0.jpg"
+  },
+  {
+    "id": "20dd090513af",
+    "class": "scissors",
+    "avg_confidence": 0.6849,
+    "image": "images/20dd090513af.jpg"
+  },
+  {
+    "id": "16b019996245",
+    "class": "apple",
+    "avg_confidence": 0.4885,
+    "image": "images/16b019996245.jpg"
+  },
+  {
+    "id": "57bdb6b21342",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/57bdb6b21342.jpg"
+  },
+  {
+    "id": "024aee367d47",
+    "class": "bottle",
+    "avg_confidence": 0.5232,
+    "image": "images/024aee367d47.jpg"
+  },
+  {
+    "id": "93b5cd63252d",
+    "class": "bottle",
+    "avg_confidence": 0.1237,
+    "image": "images/93b5cd63252d.jpg"
+  },
+  {
+    "id": "e081cd117739",
+    "class": "bottle",
+    "avg_confidence": 0.4646,
+    "image": "images/e081cd117739.jpg"
+  },
+  {
+    "id": "b8343e775c55",
+    "class": "teddy bear",
+    "avg_confidence": 0.4552,
+    "image": "images/b8343e775c55.jpg"
+  },
+  {
+    "id": "5418f678b92c",
+    "class": "teddy bear",
+    "avg_confidence": 0.6307,
+    "image": "images/5418f678b92c.jpg"
+  },
+  {
+    "id": "d462930d821d",
+    "class": "teddy bear",
+    "avg_confidence": 0.8415,
+    "image": "images/d462930d821d.jpg"
+  },
+  {
+    "id": "7db53cf77e6d",
+    "class": "donut",
+    "avg_confidence": 0.348,
+    "image": "images/7db53cf77e6d.jpg"
+  },
+  {
+    "id": "12021e5ef39b",
+    "class": "bowl",
+    "avg_confidence": 0.9169,
+    "image": "images/12021e5ef39b.jpg"
+  },
+  {
+    "id": "b40773b092c7",
+    "class": "sports ball",
+    "avg_confidence": 0.0998,
+    "image": "images/b40773b092c7.jpg"
+  },
+  {
+    "id": "9a5d83cd7091",
+    "class": "backpack",
+    "avg_confidence": 0.1864,
+    "image": "images/9a5d83cd7091.jpg"
+  },
+  {
+    "id": "918c0cba264d",
+    "class": "person",
+    "avg_confidence": 0.0068,
+    "image": "images/918c0cba264d.jpg"
+  },
+  {
+    "id": "289dc49fa4d5",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/289dc49fa4d5.jpg"
+  },
+  {
+    "id": "b0f4481a4799",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/b0f4481a4799.jpg"
+  },
+  {
+    "id": "caf8be4fb04a",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/caf8be4fb04a.jpg"
+  },
+  {
+    "id": "1a35d3cd7e95",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/1a35d3cd7e95.jpg"
+  },
+  {
+    "id": "546837fe03e0",
+    "class": "cup",
+    "avg_confidence": 0.0968,
+    "image": "images/546837fe03e0.jpg"
+  },
+  {
+    "id": "75d8f5e5ed11",
+    "class": "laptop",
+    "avg_confidence": 0.3696,
+    "image": "images/75d8f5e5ed11.jpg"
+  },
+  {
+    "id": "100d092627f7",
+    "class": "umbrella",
+    "avg_confidence": 0.6165,
+    "image": "images/100d092627f7.jpg"
+  },
+  {
+    "id": "b57f645f3c37",
+    "class": "cell phone",
+    "avg_confidence": 0.1631,
+    "image": "images/b57f645f3c37.jpg"
+  },
+  {
+    "id": "d21f3deea9cf",
+    "class": "cell phone",
+    "avg_confidence": 0.5366,
+    "image": "images/d21f3deea9cf.jpg"
+  },
+  {
+    "id": "2a65c5134e7a",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/2a65c5134e7a.jpg"
+  },
+  {
+    "id": "d779adc9254d",
+    "class": "cell phone",
+    "avg_confidence": 0.8876,
+    "image": "images/d779adc9254d.jpg"
+  },
+  {
+    "id": "0acb20f11bbb",
+    "class": "toothbrush",
+    "avg_confidence": 0.0143,
+    "image": "images/0acb20f11bbb.jpg"
+  },
+  {
+    "id": "a39bceeead98",
+    "class": "keyboard",
+    "avg_confidence": 0.9014,
+    "image": "images/a39bceeead98.jpg"
+  },
+  {
+    "id": "fde65c1fa9a3",
+    "class": "vase",
+    "avg_confidence": 0.4634,
+    "image": "images/fde65c1fa9a3.jpg"
+  },
+  {
+    "id": "b4b959d9a7b0",
+    "class": "potted plant",
+    "avg_confidence": 0.3475,
+    "image": "images/b4b959d9a7b0.jpg"
+  },
+  {
+    "id": "5f5ad25671c1",
+    "class": "remote",
+    "avg_confidence": 0.0624,
+    "image": "images/5f5ad25671c1.jpg"
+  },
+  {
+    "id": "642c997073f5",
+    "class": "scissors",
+    "avg_confidence": 0.5316,
+    "image": "images/642c997073f5.jpg"
+  },
+  {
+    "id": "f462267c405c",
+    "class": "scissors",
+    "avg_confidence": 0.5643,
+    "image": "images/f462267c405c.jpg"
+  },
+  {
+    "id": "e1c5eb346495",
+    "class": "fork",
+    "avg_confidence": 0.7389,
+    "image": "images/e1c5eb346495.jpg"
+  },
+  {
+    "id": "477e2f418797",
+    "class": "scissors",
+    "avg_confidence": 0.1212,
+    "image": "images/477e2f418797.jpg"
+  },
+  {
+    "id": "ae4f3647ccb7",
+    "class": "toothbrush",
+    "avg_confidence": 0.608,
+    "image": "images/ae4f3647ccb7.jpg"
+  },
+  {
+    "id": "c27ac66db29c",
+    "class": "toothbrush",
+    "avg_confidence": 0.4583,
+    "image": "images/c27ac66db29c.jpg"
+  },
+  {
+    "id": "815e544c614a",
+    "class": "fork",
+    "avg_confidence": 0.6384,
+    "image": "images/815e544c614a.jpg"
+  },
+  {
+    "id": "9f80fd68aa12",
+    "class": "cup",
+    "avg_confidence": 0.0956,
+    "image": "images/9f80fd68aa12.jpg"
+  },
+  {
+    "id": "fc4fb0365257",
+    "class": "toothbrush",
+    "avg_confidence": 0.6926,
+    "image": "images/fc4fb0365257.jpg"
+  },
+  {
+    "id": "3ddfdd8d42db",
+    "class": "toilet",
+    "avg_confidence": 0.4683,
+    "image": "images/3ddfdd8d42db.jpg"
+  },
+  {
+    "id": "860575984489",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/860575984489.jpg"
+  },
+  {
+    "id": "10f80bc43411",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/10f80bc43411.jpg"
+  },
+  {
+    "id": "441b7e4e4a2c",
+    "class": "laptop",
+    "avg_confidence": 0.7787,
+    "image": "images/441b7e4e4a2c.jpg"
+  },
+  {
+    "id": "ca52e455aaa6",
+    "class": "laptop",
+    "avg_confidence": 0.939,
+    "image": "images/ca52e455aaa6.jpg"
+  }
+]
