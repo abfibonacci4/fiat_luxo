@@ -6,7 +6,9 @@ import techmanpy
 ROBOT_IP = "172.16.8.2"
 
 # Replace with a previously taught and validated target pose.
-TARGET_B = [-1.51, -345.98, 823.92, -134.91, 41.72, -173.09]
+# TARGET_B = [-160.61, 40.72, 758.60, -158.12, 10.11, 131.40]
+TARGET_B = [-150.77, -77.20, 598.27, -102.19, 1.97, -148.95]
+
 
 SPEED_PERCENT = 0.25
 ACCELERATION_MS = 1000

@@ -484,5 +484,95 @@
     "class": "laptop",
     "avg_confidence": 0.8515,
     "image": "images/787fcab7904e.jpg"
+  },
+  {
+    "id": "d5ad97f84936",
+    "class": "sports ball",
+    "avg_confidence": 0.3982,
+    "image": "images/d5ad97f84936.jpg"
+  },
+  {
+    "id": "5bfc24454d28",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/5bfc24454d28.jpg"
+  },
+  {
+    "id": "56343611fb5f",
+    "class": "sports ball",
+    "avg_confidence": 0.505,
+    "image": "images/56343611fb5f.jpg"
+  },
+  {
+    "id": "44b16d695486",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/44b16d695486.jpg"
+  },
+  {
+    "id": "f2e1729137d3",
+    "class": "orange",
+    "avg_confidence": 0.2115,
+    "image": "images/f2e1729137d3.jpg"
+  },
+  {
+    "id": "fdaa66a955d9",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/fdaa66a955d9.jpg"
+  },
+  {
+    "id": "fb7a33824424",
+    "class": "dining table",
+    "avg_confidence": 0.0349,
+    "image": "images/fb7a33824424.jpg"
+  },
+  {
+    "id": "f07483428f19",
+    "class": "cup",
+    "avg_confidence": 0.5085,
+    "image": "images/f07483428f19.jpg"
+  },
+  {
+    "id": "78de9345117e",
+    "class": "laptop",
+    "avg_confidence": 0.0071,
+    "image": "images/78de9345117e.jpg"
+  },
+  {
+    "id": "ef5d6866a22c",
+    "class": "person",
+    "avg_confidence": 0.0073,
+    "image": "images/ef5d6866a22c.jpg"
+  },
+  {
+    "id": "fbf06e6751af",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/fbf06e6751af.jpg"
+  },
+  {
+    "id": "70c88d192d3e",
+    "class": "dining table",
+    "avg_confidence": 0.0068,
+    "image": "images/70c88d192d3e.jpg"
+  },
+  {
+    "id": "406626fb26a1",
+    "class": "sports ball",
+    "avg_confidence": 0.7347,
+    "image": "images/406626fb26a1.jpg"
+  },
+  {
+    "id": "6bbd88a29aaa",
+    "class": "sports ball",
+    "avg_confidence": 0.1613,
+    "image": "images/6bbd88a29aaa.jpg"
+  },
+  {
+    "id": "502606c6c8d4",
+    "class": "clock",
+    "avg_confidence": 0.2604,
+    "image": "images/502606c6c8d4.jpg"
   }
 ]
