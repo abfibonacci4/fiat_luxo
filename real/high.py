@@ -103,27 +103,7 @@ async def neutral_motion() -> None:
             blending_perc=0.0,
         )
         await wait_for_motion(robot, tag=3)
-
-        # # 5. Move from BACK to PARTICIPANT.
-        # print("Moving to PARTICIPANT...")
-        # await move_to_pose(
-        #     robot, PARTICIPANT, LOOK_SPEED,
-        #     LOOK_ACCELERATION_MS, tag=4
-        # )
-
-        # # 6. Pause at PARTICIPANT.
-        # print(
-        #     f"Pausing for {PARTICIPANT_PAUSE_SECONDS} seconds..."
-        # )
-        # await asyncio.sleep(PARTICIPANT_PAUSE_SECONDS)
-
-        # # 7. Return from PARTICIPANT to BACK.
-        # print("Returning to BACK...")
-        # await move_to_pose(
-        #     robot, BACK, LOOK_SPEED,
-        #     LOOK_ACCELERATION_MS, tag=5
-        # )
-
+        
         # 8. Perform two nods: BACK -> NOD_UP -> BACK.
         for nod_index in range(NOD_REPETITIONS):
             print(f"Performing nod {nod_index + 1}/{NOD_REPETITIONS}...")
