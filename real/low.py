@@ -17,8 +17,10 @@ END_2 = [-409.74, -459.47, 517.37, 144.34, 10.50, 150.97]
 ARC_VIA_3 = [-222.33, -547.65, 402.79, 133.93, 6.25, 174.64]
 END_3 = [-26.60, -444.55, 348.61, 133.26, -1.39, -115.75]
 ARC_VIA_4 = [-163.26, -277.56, 603.75, -172.32, -6.74, -163.19]
-PARTICIPANT =[-135.53, -206.33, 542.94, -96.30, -4.28, -162.58]
+PARTICIPANT = [-135.53, -206.33, 542.94, -96.30, -4.28, -162.58]
 HEAD_SHAKE = [-162.82, -210.99, 542.01, -96.79, -5.91, -176.50]
+HEAD_LOW = [-136.60, -214.40, 368.76, -164.95, 20.58, -174.01]
+LOW_SHAKE = [-187.36, -210.71, 360.34, -169.05, -4.94, -179.84]
 
 
 LOOK_SPEED = 0.5
@@ -39,6 +41,7 @@ ARC_ACCELERATION_MS = 800
 
 PAUSE_SECONDS = 2.0
 ARC_PAUSE_SECONDS = 1.0
+HEAD_LOW_PAUSE_SECONDS = 1.0
 
 # Independent head-shake settings.
 SHAKE_SPEED = 1.0
@@ -84,6 +87,8 @@ async def main() -> None:
         ARC_VIA_4,
         PARTICIPANT,
         HEAD_SHAKE,
+        HEAD_LOW,
+        LOW_SHAKE,
     ):
         validate_pose(pose)
 
@@ -91,7 +96,7 @@ async def main() -> None:
         "Motion: HOME -> LOOK -> ARC_VIA_1 -> END_1 "
         "-> ARC_VIA_2 -> END_2 -> ARC_VIA_3 -> END_3 "
         "-> ARC_VIA_4 -> LOOK -> PARTICIPANT -> HEAD_SHAKE "
-        "-> PARTICIPANT -> HOME"
+        "-> PARTICIPANT -> HEAD_LOW -> HOME"
     )
 
     confirmation = input(
@@ -188,30 +193,91 @@ async def main() -> None:
         )
         await wait_for_motion(robot, tag=7)
 
-        # 6. Shake "no": PARTICIPANT -> HEAD_SHAKE -> PARTICIPANT.
+        # # 6. Shake "no": PARTICIPANT -> HEAD_SHAKE -> PARTICIPANT.
+        # for shake_index in range(SHAKE_REPETITIONS):
+        #     print(
+        #         f"Performing head shake {shake_index + 1}/{SHAKE_REPETITIONS}..."
+        #     )
+        #     shake_tag = 8 + shake_index * 2
+        #     participant_tag = shake_tag + 1
+
+        #     await move_to_pose(
+        #         robot,
+        #         HEAD_SHAKE,
+        #         SHAKE_SPEED,
+        #         SHAKE_ACCELERATION_MS,
+        #         tag=shake_tag,
+        #     )
+        #     await move_to_pose(
+        #         robot,
+        #         PARTICIPANT,
+        #         SHAKE_SPEED,
+        #         SHAKE_ACCELERATION_MS,
+        #         tag=participant_tag,
+        #     )
+
+        # # 7. Move straight from PARTICIPANT to HEAD_LOW.
+        # print("Moving straight to HEAD_LOW...")
+        # await robot.move_to_point_line(
+        #     tcp_point_goal=HEAD_LOW,
+        #     speed=APPROACH_SPEED,
+        #     acceleration_duration=ACCELERATION_MS,
+        #     blending=0.0,
+        # )
+        # await wait_for_motion(robot, tag=8 + SHAKE_REPETITIONS * 2)
+        # print(f"Pausing at HEAD_LOW for {HEAD_LOW_PAUSE_SECONDS} second...")
+        # await asyncio.sleep(HEAD_LOW_PAUSE_SECONDS)
+
+        # # 8. Move straight from HEAD_LOW back to HOME.
+        # print("Moving straight back to HOME...")
+        # await robot.move_to_point_line(
+        #     tcp_point_goal=HOME,
+        #     speed=RETURN_SPEED_SLOW,
+        #     acceleration_duration=RETURN_ACCELERATION_SLOW_MS,
+        #     blending=0.0,
+        # )
+        # await wait_for_motion(robot, tag=9 + SHAKE_REPETITIONS * 2)
+
+        # Alternative post-participant sequence: use this block instead of
+        # steps 6-8 above to shake between HEAD_LOW and LOW_SHAKE.
+        print("Moving straight to HEAD_LOW...")
+        await robot.move_to_point_line(
+            tcp_point_goal=HEAD_LOW,
+            speed=APPROACH_SPEED,
+            acceleration_duration=ACCELERATION_MS,
+            blending=0.0,
+        )
+        await wait_for_motion(robot, tag=8)
+        
         for shake_index in range(SHAKE_REPETITIONS):
             print(
-                f"Performing head shake {shake_index + 1}/{SHAKE_REPETITIONS}..."
+                f"Performing low head shake "
+                f"{shake_index + 1}/{SHAKE_REPETITIONS}..."
             )
-            shake_tag = 8 + shake_index * 2
-            participant_tag = shake_tag + 1
-
+            shake_tag = 9 + shake_index * 2
+            head_low_tag = shake_tag + 1
+        
             await move_to_pose(
                 robot,
-                HEAD_SHAKE,
+                LOW_SHAKE,
                 SHAKE_SPEED,
                 SHAKE_ACCELERATION_MS,
                 tag=shake_tag,
             )
             await move_to_pose(
                 robot,
-                PARTICIPANT,
+                HEAD_LOW,
                 SHAKE_SPEED,
                 SHAKE_ACCELERATION_MS,
-                tag=participant_tag,
+                tag=head_low_tag,
             )
-
-        # 7. Move straight from PARTICIPANT back to HOME.
+        
+        print(
+            f"Pausing after low head shakes for "
+            f"{HEAD_LOW_PAUSE_SECONDS} second..."
+        )
+        await asyncio.sleep(HEAD_LOW_PAUSE_SECONDS)
+        
         print("Moving straight back to HOME...")
         await robot.move_to_point_line(
             tcp_point_goal=HOME,
@@ -219,7 +285,7 @@ async def main() -> None:
             acceleration_duration=RETURN_ACCELERATION_SLOW_MS,
             blending=0.0,
         )
-        await wait_for_motion(robot, tag=8 + SHAKE_REPETITIONS * 2)
+        await wait_for_motion(robot, tag=9 + SHAKE_REPETITIONS * 2)
 
         print("Motion completed at HOME.")
 

@@ -17,10 +17,10 @@ PARTICIPANT = [-135.53, -206.33, 542.94, -96.30, -4.28, -162.58]
 HEAD_TILT = [-122.31, -207.99, 552.19, -104.34, -28.53, -147.80]
 
 
-LOOK_SPEED = 0.5
-APPROACH_SPEED = 0.4
-ARC_1_SPEED = 0.4
-ARC_2_SPEED = 0.3
+LOOK_SPEED = 0.7
+APPROACH_SPEED = 0.5
+ARC_1_SPEED = 0.5
+ARC_2_SPEED = 0.5
 RETURN_SPEED = 0.5
 RETURN_SPEED_SLOW = 0.3
 
@@ -135,32 +135,32 @@ async def main() -> None:
         )
         await wait_for_motion(robot, tag=5)
 
-        # 7. Arc from HOME through ARC_VIA_2 to END_2.
-        print("Moving along second arc to END_2...")
-        await robot.move_on_circle(
-            tcp_point_1=ARC_VIA_2,
-            tcp_point_2=END_2,
-            speed=ARC_2_SPEED,
-            acceleration_duration=ARC_ACCELERATION_MS,
-            arc_angle=0,
-            blending_perc=0.0,
-        )
-        await wait_for_motion(robot, tag=6)
+        # # 7. Arc from HOME through ARC_VIA_2 to END_2.
+        # print("Moving along second arc to END_2...")
+        # await robot.move_on_circle(
+        #     tcp_point_1=ARC_VIA_2,
+        #     tcp_point_2=END_2,
+        #     speed=ARC_2_SPEED,
+        #     acceleration_duration=ARC_ACCELERATION_MS,
+        #     arc_angle=0,
+        #     blending_perc=0.0,
+        # )
+        # await wait_for_motion(robot, tag=6)
 
-        print(f"Pausing at END_2 for {END_PAUSE_SECONDS} second...")
-        await asyncio.sleep(END_PAUSE_SECONDS)
+        # print(f"Pausing at END_2 for {END_PAUSE_SECONDS} second...")
+        # await asyncio.sleep(END_PAUSE_SECONDS)
 
-        # 8. Arc from END_2 through ARC_VIA_2 to LOOK.
-        print("Returning along second arc to LOOK...")
-        await robot.move_on_circle(
-            tcp_point_1=ARC_VIA_2,
-            tcp_point_2=LOOK,
-            speed=ARC_2_SPEED,
-            acceleration_duration=ARC_ACCELERATION_MS,
-            arc_angle=0,
-            blending_perc=0.0,
-        )
-        await wait_for_motion(robot, tag=7)
+        # # 8. Arc from END_2 through ARC_VIA_2 to LOOK.
+        # print("Returning along second arc to LOOK...")
+        # await robot.move_on_circle(
+        #     tcp_point_1=ARC_VIA_2,
+        #     tcp_point_2=LOOK,
+        #     speed=ARC_2_SPEED,
+        #     acceleration_duration=ARC_ACCELERATION_MS,
+        #     arc_angle=0,
+        #     blending_perc=0.0,
+        # )
+        # await wait_for_motion(robot, tag=7)
 
         # 9. Move straight from LOOK to PARTICIPANT.
         print("Moving straight to PARTICIPANT...")
