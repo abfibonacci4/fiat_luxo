@@ -14,7 +14,7 @@ NOD_UP = [-217.37, -47.69, 536.98, -128.55, 7.69, 153.70]
 ARC_VIA = [-238.46, -68.79, 574.19, -136.77, 10.39, 152.43]
 
 LOOK_SPEED = 0.8
-APPROACH_SPEED = 0.5
+APPROACH_SPEED = 0.6
 RETURN_SPEED = 0.8
 ACCELERATION_MS = 500
 RETURN_ACCELERATION_MS = 250
@@ -59,8 +59,7 @@ async def neutral_motion() -> None:
         validate_pose(pose)
 
     print(
-        "Motion: HOME -> LOOK -> ARC -> BACK -> PARTICIPANT "
-        "-> BACK -> NOD_UP -> BACK -> NOD_UP -> BACK -> HOME"
+        "Motion: HOME -> LOOK -> ARC -> BACK -> NOD_UP -> BACK -> NOD_UP -> BACK -> HOME"
     )
 
     confirmation = input(
