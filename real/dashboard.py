@@ -94,6 +94,43 @@ def load_records() -> list[dict]:
     return records
 
 
+def delete_record(record_id: str) -> None:
+    """Delete one observation and its unshared image."""
+    records = load_records()
+    deleted_record = next(
+        (record for record in records if record["id"] == record_id),
+        None,
+    )
+
+    if deleted_record is None:
+        raise ValueError(f"Capture {record_id} no longer exists.")
+
+    remaining_records = [
+        record for record in records if record["id"] != record_id
+    ]
+    temporary_file = OBSERVATIONS_FILE.with_suffix(".json.tmp")
+    temporary_file.write_text(
+        json.dumps(remaining_records, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    temporary_file.replace(OBSERVATIONS_FILE)
+
+    image_name = deleted_record.get("image")
+    image_is_shared = any(
+        record.get("image") == image_name for record in remaining_records
+    )
+
+    if image_name and not image_is_shared:
+        image_path = (DATA_DIR / image_name).resolve()
+
+        try:
+            image_path.relative_to(DATA_DIR.resolve())
+        except ValueError:
+            return
+
+        image_path.unlink(missing_ok=True)
+
+
 def image_data_url(relative_path: str) -> str | None:
     """Convert a stored JPEG into a DataFrame-compatible image URL."""
     image_path = DATA_DIR / relative_path
@@ -199,7 +236,7 @@ def show_capture_details(record: dict) -> None:
                 ),
             },
             hide_index=True,
-            width="stretch",
+            use_container_width=True,
         )
     else:
         st.info("No objects were detected during this capture.")
@@ -262,7 +299,7 @@ def show_capture_details(record: dict) -> None:
             ),
         },
         hide_index=True,
-        width="stretch",
+        use_container_width=True,
     )
 
     if selected_frame == record.get("representative_frame"):
@@ -292,7 +329,7 @@ def main() -> None:
     if st.button("Refresh"):
         st.rerun()
 
-    records = load_records()
+    records = list(reversed(load_records()))
 
     total_detections = sum(
         len(frame.get("detections", []))
@@ -314,7 +351,7 @@ def main() -> None:
 
     st.subheader("Capture overview")
 
-    st.dataframe(
+    overview_event = st.dataframe(
         build_overview(records),
         column_config={
             "ID": st.column_config.TextColumn("ID"),
@@ -334,17 +371,50 @@ def main() -> None:
             ),
         },
         hide_index=True,
-        width="stretch",
+        use_container_width=True,
         row_height=110,
+        on_select="rerun",
+        selection_mode="single-row",
     )
+
+    selected_rows = overview_event.selection.rows
+    selected_record_id = None
+
+    if selected_rows:
+        selected_record_id = records[selected_rows[0]]["id"]
+        st.session_state.inspect_capture_id = selected_record_id
+
+    caption_column, delete_column = st.columns([5, 1])
+    caption_column.caption(
+        "Select a row to spotlight it in the capture inspector."
+    )
+
+    if delete_column.button(
+        "Delete selected",
+        disabled=selected_record_id is None,
+        use_container_width=True,
+    ):
+        try:
+            delete_record(selected_record_id)
+        except (OSError, ValueError, json.JSONDecodeError) as error:
+            st.error(f"Could not delete capture: {error}")
+        else:
+            if st.session_state.get("inspect_capture_id") == selected_record_id:
+                del st.session_state.inspect_capture_id
+            st.rerun()
 
     st.divider()
     st.subheader("Inspect a capture")
 
+    capture_ids = [record["id"] for record in records]
+
+    if st.session_state.get("inspect_capture_id") not in capture_ids:
+        st.session_state.inspect_capture_id = capture_ids[0]
+
     selected_id = st.selectbox(
         "Select observation ID",
-        options=[record["id"] for record in records],
-        index=len(records) - 1,
+        options=capture_ids,
+        key="inspect_capture_id",
     )
 
     selected_record = next(

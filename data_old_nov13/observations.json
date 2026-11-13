@@ -1,0 +1,7575 @@
+[
+  {
+    "id": "1cecfdda4cb5",
+    "class": "frisbee",
+    "avg_confidence": 0.6777,
+    "image": "images/1cecfdda4cb5.jpg"
+  },
+  {
+    "id": "89804f8e62ef",
+    "class": "mouse",
+    "avg_confidence": 0.6266,
+    "image": "images/89804f8e62ef.jpg"
+  },
+  {
+    "id": "faddfe5e517f",
+    "class": "mouse",
+    "avg_confidence": 0.7987,
+    "image": "images/faddfe5e517f.jpg"
+  },
+  {
+    "id": "a1e8d42b1ca3",
+    "class": "book",
+    "avg_confidence": 0.6481,
+    "image": "images/a1e8d42b1ca3.jpg"
+  },
+  {
+    "id": "7822fb457078",
+    "class": "book",
+    "avg_confidence": 0.1179,
+    "image": "images/7822fb457078.jpg"
+  },
+  {
+    "id": "c6796a4856b2",
+    "class": "laptop",
+    "avg_confidence": 0.6901,
+    "image": "images/c6796a4856b2.jpg"
+  },
+  {
+    "id": "2454a4621102",
+    "class": "bottle",
+    "avg_confidence": 0.5285,
+    "image": "images/2454a4621102.jpg"
+  },
+  {
+    "id": "133eccbe1d50",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/133eccbe1d50.jpg"
+  },
+  {
+    "id": "c0c05d05017b",
+    "class": "cup",
+    "avg_confidence": 0.3266,
+    "image": "images/c0c05d05017b.jpg"
+  },
+  {
+    "id": "30fa7dc33445",
+    "class": "toothbrush",
+    "avg_confidence": 0.6123,
+    "image": "images/30fa7dc33445.jpg"
+  },
+  {
+    "id": "e36bd49bc84a",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/e36bd49bc84a.jpg"
+  },
+  {
+    "id": "6c76d762d488",
+    "class": "toothbrush",
+    "avg_confidence": 0.4973,
+    "image": "images/6c76d762d488.jpg"
+  },
+  {
+    "id": "928470ddd11a",
+    "class": "scissors",
+    "avg_confidence": 0.1964,
+    "image": "images/928470ddd11a.jpg"
+  },
+  {
+    "id": "e3d10908adc8",
+    "class": "spoon",
+    "avg_confidence": 0.2719,
+    "image": "images/e3d10908adc8.jpg"
+  },
+  {
+    "id": "b2135dd13d65",
+    "class": "spoon",
+    "avg_confidence": 0.6101,
+    "image": "images/b2135dd13d65.jpg"
+  },
+  {
+    "id": "97298998fd94",
+    "class": "toothbrush",
+    "avg_confidence": 0.7222,
+    "image": "images/97298998fd94.jpg"
+  },
+  {
+    "id": "fb91e2389d0e",
+    "class": "scissors",
+    "avg_confidence": 0.4481,
+    "image": "images/fb91e2389d0e.jpg"
+  },
+  {
+    "id": "55be914186e2",
+    "class": "spoon",
+    "avg_confidence": 0.0271,
+    "image": "images/55be914186e2.jpg"
+  },
+  {
+    "id": "b786697731e5",
+    "class": "fork",
+    "avg_confidence": 0.5392,
+    "image": "images/b786697731e5.jpg"
+  },
+  {
+    "id": "989588d0d43d",
+    "class": "fork",
+    "avg_confidence": 0.4483,
+    "image": "images/989588d0d43d.jpg"
+  },
+  {
+    "id": "22d3a4498516",
+    "class": "fork",
+    "avg_confidence": 0.0565,
+    "image": "images/22d3a4498516.jpg"
+  },
+  {
+    "id": "0b9698588873",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/0b9698588873.jpg"
+  },
+  {
+    "id": "5bc4d2a4df59",
+    "class": "toothbrush",
+    "avg_confidence": 0.4229,
+    "image": "images/5bc4d2a4df59.jpg"
+  },
+  {
+    "id": "cf1d45d963d0",
+    "class": "bottle",
+    "avg_confidence": 0.7388,
+    "image": "images/cf1d45d963d0.jpg"
+  },
+  {
+    "id": "a65fd4cfe995",
+    "class": "bottle",
+    "avg_confidence": 0.8273,
+    "image": "images/a65fd4cfe995.jpg"
+  },
+  {
+    "id": "a23479785089",
+    "class": "teddy bear",
+    "avg_confidence": 0.8677,
+    "image": "images/a23479785089.jpg"
+  },
+  {
+    "id": "c662058fc68c",
+    "class": "teddy bear",
+    "avg_confidence": 0.8955,
+    "image": "images/c662058fc68c.jpg"
+  },
+  {
+    "id": "1051ece9aac9",
+    "class": "teddy bear",
+    "avg_confidence": 0.8751,
+    "image": "images/1051ece9aac9.jpg"
+  },
+  {
+    "id": "42cd1e09f079",
+    "class": "cup",
+    "avg_confidence": 0.4435,
+    "image": "images/42cd1e09f079.jpg"
+  },
+  {
+    "id": "559d2a3f364d",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/559d2a3f364d.jpg"
+  },
+  {
+    "id": "8206afab3411",
+    "class": "sports ball",
+    "avg_confidence": 0.614,
+    "image": "images/8206afab3411.jpg"
+  },
+  {
+    "id": "10c54e4f74a0",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/10c54e4f74a0.jpg"
+  },
+  {
+    "id": "7d69bd9fb5d6",
+    "class": "sports ball",
+    "avg_confidence": 0.0717,
+    "image": "images/7d69bd9fb5d6.jpg"
+  },
+  {
+    "id": "de5808a707c9",
+    "class": "banana",
+    "avg_confidence": 0.4746,
+    "image": "images/de5808a707c9.jpg"
+  },
+  {
+    "id": "3c4160e6e72d",
+    "class": "banana",
+    "avg_confidence": 0.7568,
+    "image": "images/3c4160e6e72d.jpg"
+  },
+  {
+    "id": "ce9e77e4b6df",
+    "class": "banana",
+    "avg_confidence": 0.5594,
+    "image": "images/ce9e77e4b6df.jpg"
+  },
+  {
+    "id": "409fc614f2c0",
+    "class": "tie",
+    "avg_confidence": 0.0666,
+    "image": "images/409fc614f2c0.jpg"
+  },
+  {
+    "id": "de1ecd111987",
+    "class": "book",
+    "avg_confidence": 0.0073,
+    "image": "images/de1ecd111987.jpg"
+  },
+  {
+    "id": "eecb608f7a26",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/eecb608f7a26.jpg"
+  },
+  {
+    "id": "d001288dd6a3",
+    "class": "book",
+    "avg_confidence": 0.3341,
+    "image": "images/d001288dd6a3.jpg"
+  },
+  {
+    "id": "0b362482b7b0",
+    "class": "person",
+    "avg_confidence": 0.1306,
+    "image": "images/0b362482b7b0.jpg"
+  },
+  {
+    "id": "0e3d53488c29",
+    "class": "clock",
+    "avg_confidence": 0.3937,
+    "image": "images/0e3d53488c29.jpg"
+  },
+  {
+    "id": "059fa2316539",
+    "class": "clock",
+    "avg_confidence": 0.5209,
+    "image": "images/059fa2316539.jpg"
+  },
+  {
+    "id": "50e8add7d186",
+    "class": "toothbrush",
+    "avg_confidence": 0.7799,
+    "image": "images/50e8add7d186.jpg"
+  },
+  {
+    "id": "0985522daf0e",
+    "class": "person",
+    "avg_confidence": 0.0332,
+    "image": "images/0985522daf0e.jpg"
+  },
+  {
+    "id": "4510cba5dde4",
+    "class": "toothbrush",
+    "avg_confidence": 0.7845,
+    "image": "images/4510cba5dde4.jpg"
+  },
+  {
+    "id": "059b342ad592",
+    "class": "toothbrush",
+    "avg_confidence": 0.8762,
+    "image": "images/059b342ad592.jpg"
+  },
+  {
+    "id": "4ccc4c361565",
+    "class": "book",
+    "avg_confidence": 0.7226,
+    "image": "images/4ccc4c361565.jpg"
+  },
+  {
+    "id": "d5a0c677d76a",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/d5a0c677d76a.jpg"
+  },
+  {
+    "id": "6cc4fc96f287",
+    "class": "remote",
+    "avg_confidence": 0.2292,
+    "image": "images/6cc4fc96f287.jpg"
+  },
+  {
+    "id": "52ec3cb55050",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/52ec3cb55050.jpg"
+  },
+  {
+    "id": "df3138bd8c9a",
+    "class": "orange",
+    "avg_confidence": 0.5284,
+    "image": "images/df3138bd8c9a.jpg"
+  },
+  {
+    "id": "696f8c6f594c",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/696f8c6f594c.jpg"
+  },
+  {
+    "id": "a6a8ce2366a3",
+    "class": "toilet",
+    "avg_confidence": 0.5849,
+    "image": "images/a6a8ce2366a3.jpg"
+  },
+  {
+    "id": "0b567772513a",
+    "class": "donut",
+    "avg_confidence": 0.0135,
+    "image": "images/0b567772513a.jpg"
+  },
+  {
+    "id": "db5c0eb99472",
+    "class": "dining table",
+    "avg_confidence": 0.2228,
+    "image": "images/db5c0eb99472.jpg"
+  },
+  {
+    "id": "f6cc87b1887c",
+    "class": "donut",
+    "avg_confidence": 0.0707,
+    "image": "images/f6cc87b1887c.jpg"
+  },
+  {
+    "id": "8d68fa629813",
+    "class": "teddy bear",
+    "avg_confidence": 0.5322,
+    "image": "images/8d68fa629813.jpg"
+  },
+  {
+    "id": "99b6928a4266",
+    "class": "handbag",
+    "avg_confidence": 0.5633,
+    "image": "images/99b6928a4266.jpg"
+  },
+  {
+    "id": "1d7bc15d4261",
+    "class": "suitcase",
+    "avg_confidence": 0.3471,
+    "image": "images/1d7bc15d4261.jpg"
+  },
+  {
+    "id": "582ce7918222",
+    "class": "tie",
+    "avg_confidence": 0.8689,
+    "image": "images/582ce7918222.jpg"
+  },
+  {
+    "id": "f89567cdc7f9",
+    "class": "keyboard",
+    "avg_confidence": 0.8913,
+    "image": "images/f89567cdc7f9.jpg"
+  },
+  {
+    "id": "ef00d3dcfa67",
+    "class": "keyboard",
+    "avg_confidence": 0.6655,
+    "image": "images/ef00d3dcfa67.jpg"
+  },
+  {
+    "id": "49f6144483c8",
+    "class": "remote",
+    "avg_confidence": 0.4242,
+    "image": "images/49f6144483c8.jpg"
+  },
+  {
+    "id": "65cdbf8a33df",
+    "class": "cell phone",
+    "avg_confidence": 0.9209,
+    "image": "images/65cdbf8a33df.jpg"
+  },
+  {
+    "id": "891aefa36522",
+    "class": "cell phone",
+    "avg_confidence": 0.7272,
+    "image": "images/891aefa36522.jpg"
+  },
+  {
+    "id": "ff55a7b612df",
+    "class": "cell phone",
+    "avg_confidence": 0.6656,
+    "image": "images/ff55a7b612df.jpg"
+  },
+  {
+    "id": "91fc5cfdcbb2",
+    "class": "person",
+    "avg_confidence": 0.0485,
+    "image": "images/91fc5cfdcbb2.jpg"
+  },
+  {
+    "id": "cf8df453ee30",
+    "class": "cell phone",
+    "avg_confidence": 0.7469,
+    "image": "images/cf8df453ee30.jpg"
+  },
+  {
+    "id": "a66d4271f95d",
+    "class": "cell phone",
+    "avg_confidence": 0.3476,
+    "image": "images/a66d4271f95d.jpg"
+  },
+  {
+    "id": "e111fdb0592f",
+    "class": "cell phone",
+    "avg_confidence": 0.1028,
+    "image": "images/e111fdb0592f.jpg"
+  },
+  {
+    "id": "a36ce375ee0b",
+    "class": "cell phone",
+    "avg_confidence": 0.4974,
+    "image": "images/a36ce375ee0b.jpg"
+  },
+  {
+    "id": "3c6a97d4ce77",
+    "class": "cell phone",
+    "avg_confidence": 0.8396,
+    "image": "images/3c6a97d4ce77.jpg"
+  },
+  {
+    "id": "00005013d55d",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/00005013d55d.jpg"
+  },
+  {
+    "id": "ead754566cf8",
+    "class": "cup",
+    "avg_confidence": 0.7101,
+    "image": "images/ead754566cf8.jpg"
+  },
+  {
+    "id": "46942c6712a2",
+    "class": "cup",
+    "avg_confidence": 0.6272,
+    "image": "images/46942c6712a2.jpg"
+  },
+  {
+    "id": "985e3e7d31b2",
+    "class": "remote",
+    "avg_confidence": 0.5801,
+    "image": "images/985e3e7d31b2.jpg"
+  },
+  {
+    "id": "c7d23a58a098",
+    "class": "person",
+    "avg_confidence": 0.1176,
+    "image": "images/c7d23a58a098.jpg"
+  },
+  {
+    "id": "e385731d0bb4",
+    "class": "laptop",
+    "avg_confidence": 0.6737,
+    "image": "images/e385731d0bb4.jpg"
+  },
+  {
+    "id": "67c05d800c16",
+    "class": "laptop",
+    "avg_confidence": 0.9018,
+    "image": "images/67c05d800c16.jpg"
+  },
+  {
+    "id": "787fcab7904e",
+    "class": "laptop",
+    "avg_confidence": 0.8515,
+    "image": "images/787fcab7904e.jpg"
+  },
+  {
+    "id": "d5ad97f84936",
+    "class": "sports ball",
+    "avg_confidence": 0.3982,
+    "image": "images/d5ad97f84936.jpg"
+  },
+  {
+    "id": "5bfc24454d28",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/5bfc24454d28.jpg"
+  },
+  {
+    "id": "56343611fb5f",
+    "class": "sports ball",
+    "avg_confidence": 0.505,
+    "image": "images/56343611fb5f.jpg"
+  },
+  {
+    "id": "44b16d695486",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/44b16d695486.jpg"
+  },
+  {
+    "id": "f2e1729137d3",
+    "class": "orange",
+    "avg_confidence": 0.2115,
+    "image": "images/f2e1729137d3.jpg"
+  },
+  {
+    "id": "fdaa66a955d9",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/fdaa66a955d9.jpg"
+  },
+  {
+    "id": "fb7a33824424",
+    "class": "dining table",
+    "avg_confidence": 0.0349,
+    "image": "images/fb7a33824424.jpg"
+  },
+  {
+    "id": "f07483428f19",
+    "class": "cup",
+    "avg_confidence": 0.5085,
+    "image": "images/f07483428f19.jpg"
+  },
+  {
+    "id": "78de9345117e",
+    "class": "laptop",
+    "avg_confidence": 0.0071,
+    "image": "images/78de9345117e.jpg"
+  },
+  {
+    "id": "ef5d6866a22c",
+    "class": "person",
+    "avg_confidence": 0.0073,
+    "image": "images/ef5d6866a22c.jpg"
+  },
+  {
+    "id": "fbf06e6751af",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/fbf06e6751af.jpg"
+  },
+  {
+    "id": "70c88d192d3e",
+    "class": "dining table",
+    "avg_confidence": 0.0068,
+    "image": "images/70c88d192d3e.jpg"
+  },
+  {
+    "id": "406626fb26a1",
+    "class": "sports ball",
+    "avg_confidence": 0.7347,
+    "image": "images/406626fb26a1.jpg"
+  },
+  {
+    "id": "6bbd88a29aaa",
+    "class": "sports ball",
+    "avg_confidence": 0.1613,
+    "image": "images/6bbd88a29aaa.jpg"
+  },
+  {
+    "id": "502606c6c8d4",
+    "class": "clock",
+    "avg_confidence": 0.2604,
+    "image": "images/502606c6c8d4.jpg"
+  },
+  {
+    "id": "1d36005f1dfb",
+    "class": "clock",
+    "avg_confidence": 0.3352,
+    "image": "images/1d36005f1dfb.jpg",
+    "frame_count": 60,
+    "representative_frame": 51,
+    "classes": [
+      {
+        "class": "clock",
+        "avg_confidence": 0.3352,
+        "frames_detected": 45,
+        "detection_count": 45
+      },
+      {
+        "class": "book",
+        "avg_confidence": 0.0073,
+        "frames_detected": 1,
+        "detection_count": 1
+      }
+    ],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4157,
+            "bbox_xyxy": [
+              216.35,
+              157.94,
+              338.43,
+              276.2
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 2,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4422,
+            "bbox_xyxy": [
+              216.25,
+              157.91,
+              338.33,
+              276.51
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 3,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4547,
+            "bbox_xyxy": [
+              216.46,
+              157.94,
+              338.22,
+              276.85
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 4,
+        "detections": []
+      },
+      {
+        "frame_index": 5,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4558,
+            "bbox_xyxy": [
+              216.36,
+              158.01,
+              338.1,
+              277.13
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 6,
+        "detections": []
+      },
+      {
+        "frame_index": 7,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4305,
+            "bbox_xyxy": [
+              216.3,
+              157.86,
+              338.84,
+              277.15
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 8,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4531,
+            "bbox_xyxy": [
+              216.34,
+              158.11,
+              338.57,
+              276.95
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 9,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.5133,
+            "bbox_xyxy": [
+              216.33,
+              158.0,
+              338.28,
+              276.27
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 10,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4694,
+            "bbox_xyxy": [
+              216.08,
+              157.94,
+              338.33,
+              276.35
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 11,
+        "detections": []
+      },
+      {
+        "frame_index": 12,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4592,
+            "bbox_xyxy": [
+              216.28,
+              157.99,
+              338.28,
+              276.34
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 13,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4328,
+            "bbox_xyxy": [
+              216.52,
+              158.08,
+              338.38,
+              276.77
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 14,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4153,
+            "bbox_xyxy": [
+              216.12,
+              158.05,
+              338.69,
+              276.48
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 15,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4101,
+            "bbox_xyxy": [
+              216.61,
+              158.12,
+              338.23,
+              276.78
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 16,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4131,
+            "bbox_xyxy": [
+              216.17,
+              158.21,
+              338.12,
+              276.02
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 17,
+        "detections": []
+      },
+      {
+        "frame_index": 18,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4167,
+            "bbox_xyxy": [
+              216.21,
+              157.93,
+              338.37,
+              276.73
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 19,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4425,
+            "bbox_xyxy": [
+              216.38,
+              158.0,
+              338.2,
+              276.51
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 20,
+        "detections": []
+      },
+      {
+        "frame_index": 21,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.5134,
+            "bbox_xyxy": [
+              216.44,
+              158.13,
+              338.61,
+              276.68
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 22,
+        "detections": []
+      },
+      {
+        "frame_index": 23,
+        "detections": []
+      },
+      {
+        "frame_index": 24,
+        "detections": []
+      },
+      {
+        "frame_index": 25,
+        "detections": []
+      },
+      {
+        "frame_index": 26,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4603,
+            "bbox_xyxy": [
+              216.58,
+              157.91,
+              338.72,
+              276.78
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 27,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4231,
+            "bbox_xyxy": [
+              216.39,
+              157.94,
+              338.47,
+              277.07
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 28,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4017,
+            "bbox_xyxy": [
+              216.46,
+              157.81,
+              338.67,
+              276.83
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 29,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4236,
+            "bbox_xyxy": [
+              216.34,
+              157.94,
+              338.84,
+              276.66
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 30,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4071,
+            "bbox_xyxy": [
+              216.26,
+              158.12,
+              338.22,
+              276.41
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 31,
+        "detections": []
+      },
+      {
+        "frame_index": 32,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4231,
+            "bbox_xyxy": [
+              216.42,
+              157.92,
+              338.77,
+              276.85
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 33,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.5307,
+            "bbox_xyxy": [
+              216.3,
+              158.1,
+              338.21,
+              276.57
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 34,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4775,
+            "bbox_xyxy": [
+              216.13,
+              157.83,
+              338.35,
+              276.65
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 35,
+        "detections": []
+      },
+      {
+        "frame_index": 36,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4581,
+            "bbox_xyxy": [
+              216.04,
+              158.02,
+              338.71,
+              276.33
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 37,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4436,
+            "bbox_xyxy": [
+              216.24,
+              157.95,
+              338.39,
+              275.91
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 38,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4603,
+            "bbox_xyxy": [
+              216.68,
+              157.98,
+              338.29,
+              276.79
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 39,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4328,
+            "bbox_xyxy": [
+              216.32,
+              157.95,
+              337.77,
+              276.37
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 40,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4082,
+            "bbox_xyxy": [
+              216.24,
+              157.83,
+              338.58,
+              276.99
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 41,
+        "detections": []
+      },
+      {
+        "frame_index": 42,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4422,
+            "bbox_xyxy": [
+              216.27,
+              157.91,
+              338.06,
+              277.06
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 43,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4784,
+            "bbox_xyxy": [
+              216.24,
+              157.91,
+              338.57,
+              276.31
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 44,
+        "detections": []
+      },
+      {
+        "frame_index": 45,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4649,
+            "bbox_xyxy": [
+              216.36,
+              157.88,
+              338.59,
+              276.53
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 46,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4608,
+            "bbox_xyxy": [
+              216.4,
+              157.94,
+              337.98,
+              275.83
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 47,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4765,
+            "bbox_xyxy": [
+              216.72,
+              157.75,
+              338.29,
+              276.36
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 48,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.413,
+            "bbox_xyxy": [
+              216.51,
+              158.15,
+              338.12,
+              276.68
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 49,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.432,
+            "bbox_xyxy": [
+              216.24,
+              158.05,
+              338.7,
+              276.5
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 50,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4442,
+            "bbox_xyxy": [
+              216.3,
+              157.95,
+              338.17,
+              276.14
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 51,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4784,
+            "bbox_xyxy": [
+              216.57,
+              157.91,
+              339.21,
+              276.58
+            ]
+          },
+          {
+            "class": "book",
+            "confidence": 0.4381,
+            "bbox_xyxy": [
+              0.19,
+              177.04,
+              109.46,
+              479.14
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 52,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4537,
+            "bbox_xyxy": [
+              216.78,
+              158.05,
+              338.71,
+              276.45
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 53,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4549,
+            "bbox_xyxy": [
+              216.16,
+              157.95,
+              338.52,
+              276.05
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 54,
+        "detections": []
+      },
+      {
+        "frame_index": 55,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4659,
+            "bbox_xyxy": [
+              216.28,
+              157.79,
+              338.06,
+              276.64
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 56,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4551,
+            "bbox_xyxy": [
+              216.22,
+              157.73,
+              338.66,
+              276.54
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 57,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4674,
+            "bbox_xyxy": [
+              216.11,
+              157.89,
+              338.66,
+              276.49
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 58,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4166,
+            "bbox_xyxy": [
+              216.52,
+              157.81,
+              338.35,
+              275.38
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 59,
+        "detections": [
+          {
+            "class": "clock",
+            "confidence": 0.4175,
+            "bbox_xyxy": [
+              216.23,
+              157.8,
+              338.48,
+              276.32
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 60,
+        "detections": []
+      }
+    ]
+  },
+  {
+    "id": "9609b1c91cca",
+    "class": "cup",
+    "avg_confidence": 0.3521,
+    "image": "images/9609b1c91cca.jpg",
+    "frame_count": 60,
+    "representative_frame": 3,
+    "classes": [
+      {
+        "class": "cup",
+        "avg_confidence": 0.3521,
+        "frames_detected": 49,
+        "detection_count": 49
+      }
+    ],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4277,
+            "bbox_xyxy": [
+              235.27,
+              167.82,
+              353.63,
+              282.74
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 2,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4406,
+            "bbox_xyxy": [
+              235.36,
+              167.87,
+              353.5,
+              282.63
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 3,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4843,
+            "bbox_xyxy": [
+              234.55,
+              167.86,
+              353.49,
+              281.91
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 4,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4357,
+            "bbox_xyxy": [
+              235.19,
+              167.96,
+              353.61,
+              282.62
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 5,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4371,
+            "bbox_xyxy": [
+              234.6,
+              167.89,
+              353.36,
+              281.95
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 6,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4289,
+            "bbox_xyxy": [
+              234.7,
+              167.91,
+              353.46,
+              282.02
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 7,
+        "detections": []
+      },
+      {
+        "frame_index": 8,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4288,
+            "bbox_xyxy": [
+              234.7,
+              167.76,
+              353.37,
+              282.03
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 9,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4234,
+            "bbox_xyxy": [
+              235.23,
+              167.88,
+              353.65,
+              282.62
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 10,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4233,
+            "bbox_xyxy": [
+              234.63,
+              167.88,
+              353.45,
+              281.99
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 11,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4232,
+            "bbox_xyxy": [
+              235.21,
+              168.0,
+              353.7,
+              282.69
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 12,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.456,
+            "bbox_xyxy": [
+              235.27,
+              167.94,
+              353.69,
+              282.61
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 13,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4049,
+            "bbox_xyxy": [
+              235.27,
+              167.85,
+              353.55,
+              282.64
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 14,
+        "detections": []
+      },
+      {
+        "frame_index": 15,
+        "detections": []
+      },
+      {
+        "frame_index": 16,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4408,
+            "bbox_xyxy": [
+              235.35,
+              167.88,
+              353.7,
+              282.64
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 17,
+        "detections": []
+      },
+      {
+        "frame_index": 18,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4597,
+            "bbox_xyxy": [
+              234.61,
+              167.81,
+              353.43,
+              281.99
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 19,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4081,
+            "bbox_xyxy": [
+              235.32,
+              167.87,
+              353.74,
+              282.7
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 20,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4827,
+            "bbox_xyxy": [
+              234.62,
+              167.93,
+              353.45,
+              281.77
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 21,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4554,
+            "bbox_xyxy": [
+              234.65,
+              167.93,
+              353.54,
+              281.91
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 22,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4402,
+            "bbox_xyxy": [
+              234.69,
+              167.88,
+              353.4,
+              281.8
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 23,
+        "detections": []
+      },
+      {
+        "frame_index": 24,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.419,
+            "bbox_xyxy": [
+              234.63,
+              167.93,
+              353.48,
+              281.92
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 25,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4252,
+            "bbox_xyxy": [
+              235.2,
+              167.96,
+              353.68,
+              282.67
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 26,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4287,
+            "bbox_xyxy": [
+              235.26,
+              167.88,
+              353.49,
+              282.6
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 27,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4168,
+            "bbox_xyxy": [
+              234.57,
+              167.8,
+              353.48,
+              282.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 28,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4471,
+            "bbox_xyxy": [
+              234.62,
+              167.96,
+              353.43,
+              281.85
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 29,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4097,
+            "bbox_xyxy": [
+              235.27,
+              167.9,
+              353.63,
+              282.54
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 30,
+        "detections": []
+      },
+      {
+        "frame_index": 31,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4218,
+            "bbox_xyxy": [
+              235.29,
+              167.94,
+              353.55,
+              282.67
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 32,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4826,
+            "bbox_xyxy": [
+              234.59,
+              167.82,
+              353.47,
+              281.96
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 33,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4237,
+            "bbox_xyxy": [
+              235.28,
+              167.91,
+              353.61,
+              282.68
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 34,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4322,
+            "bbox_xyxy": [
+              234.64,
+              167.81,
+              353.57,
+              281.89
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 35,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.408,
+            "bbox_xyxy": [
+              235.32,
+              168.0,
+              353.45,
+              282.63
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 36,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4443,
+            "bbox_xyxy": [
+              235.31,
+              167.8,
+              353.56,
+              282.57
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 37,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4085,
+            "bbox_xyxy": [
+              234.6,
+              167.84,
+              353.31,
+              282.02
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 38,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.406,
+            "bbox_xyxy": [
+              235.29,
+              167.92,
+              353.48,
+              282.68
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 39,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4322,
+            "bbox_xyxy": [
+              234.75,
+              167.9,
+              353.48,
+              282.06
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 40,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4025,
+            "bbox_xyxy": [
+              235.29,
+              167.99,
+              353.73,
+              282.71
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 41,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4381,
+            "bbox_xyxy": [
+              234.63,
+              167.95,
+              353.42,
+              281.93
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 42,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.441,
+            "bbox_xyxy": [
+              235.18,
+              167.88,
+              353.68,
+              282.7
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 43,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4487,
+            "bbox_xyxy": [
+              234.64,
+              167.94,
+              353.42,
+              282.01
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 44,
+        "detections": []
+      },
+      {
+        "frame_index": 45,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4235,
+            "bbox_xyxy": [
+              234.57,
+              167.94,
+              353.4,
+              281.91
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 46,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4201,
+            "bbox_xyxy": [
+              234.53,
+              167.93,
+              353.42,
+              281.96
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 47,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4278,
+            "bbox_xyxy": [
+              235.22,
+              167.94,
+              353.62,
+              282.56
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 48,
+        "detections": []
+      },
+      {
+        "frame_index": 49,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.404,
+            "bbox_xyxy": [
+              234.76,
+              167.97,
+              353.39,
+              281.83
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 50,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4236,
+            "bbox_xyxy": [
+              235.29,
+              167.88,
+              353.76,
+              282.53
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 51,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4234,
+            "bbox_xyxy": [
+              235.17,
+              167.92,
+              353.61,
+              282.57
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 52,
+        "detections": []
+      },
+      {
+        "frame_index": 53,
+        "detections": []
+      },
+      {
+        "frame_index": 54,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4272,
+            "bbox_xyxy": [
+              235.24,
+              167.99,
+              353.51,
+              282.72
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 55,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.444,
+            "bbox_xyxy": [
+              235.32,
+              167.82,
+              353.68,
+              282.63
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 56,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4417,
+            "bbox_xyxy": [
+              234.65,
+              167.93,
+              353.43,
+              281.9
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 57,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4115,
+            "bbox_xyxy": [
+              234.7,
+              168.03,
+              353.5,
+              281.96
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 58,
+        "detections": []
+      },
+      {
+        "frame_index": 59,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4063,
+            "bbox_xyxy": [
+              234.74,
+              167.93,
+              353.36,
+              281.87
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 60,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4351,
+            "bbox_xyxy": [
+              234.7,
+              167.92,
+              353.43,
+              281.92
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bced117977ff",
+    "class": "cup",
+    "avg_confidence": 0.6334,
+    "image": "images/bced117977ff.jpg",
+    "frame_count": 60,
+    "representative_frame": 24,
+    "classes": [
+      {
+        "class": "cup",
+        "avg_confidence": 0.6334,
+        "frames_detected": 60,
+        "detection_count": 60
+      },
+      {
+        "class": "dining table",
+        "avg_confidence": 0.0785,
+        "frames_detected": 11,
+        "detection_count": 11
+      }
+    ],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6657,
+            "bbox_xyxy": [
+              241.65,
+              93.22,
+              304.45,
+              167.87
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4064,
+            "bbox_xyxy": [
+              3.35,
+              39.45,
+              574.41,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 2,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6492,
+            "bbox_xyxy": [
+              241.64,
+              93.58,
+              304.34,
+              167.34
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 3,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6313,
+            "bbox_xyxy": [
+              241.43,
+              93.18,
+              304.8,
+              167.81
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 4,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5872,
+            "bbox_xyxy": [
+              241.97,
+              93.42,
+              304.21,
+              167.32
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 5,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5822,
+            "bbox_xyxy": [
+              241.46,
+              93.5,
+              304.24,
+              167.47
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 6,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6452,
+            "bbox_xyxy": [
+              241.82,
+              93.08,
+              304.36,
+              167.86
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 7,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6033,
+            "bbox_xyxy": [
+              241.65,
+              93.14,
+              304.47,
+              167.58
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 8,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.635,
+            "bbox_xyxy": [
+              241.37,
+              93.12,
+              304.55,
+              167.98
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 9,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6478,
+            "bbox_xyxy": [
+              241.55,
+              93.06,
+              304.67,
+              167.56
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 10,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.647,
+            "bbox_xyxy": [
+              241.71,
+              93.19,
+              304.42,
+              167.9
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 11,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5757,
+            "bbox_xyxy": [
+              241.8,
+              93.19,
+              304.3,
+              167.38
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4035,
+            "bbox_xyxy": [
+              6.73,
+              28.97,
+              572.7,
+              479.88
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 12,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.647,
+            "bbox_xyxy": [
+              241.48,
+              93.7,
+              304.56,
+              167.58
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 13,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6042,
+            "bbox_xyxy": [
+              241.71,
+              93.51,
+              304.16,
+              167.37
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 14,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6154,
+            "bbox_xyxy": [
+              241.57,
+              93.16,
+              303.99,
+              167.31
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4288,
+            "bbox_xyxy": [
+              6.07,
+              32.48,
+              576.67,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 15,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6308,
+            "bbox_xyxy": [
+              241.68,
+              93.41,
+              304.36,
+              167.63
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 16,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6744,
+            "bbox_xyxy": [
+              241.78,
+              93.33,
+              304.46,
+              167.64
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 17,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6612,
+            "bbox_xyxy": [
+              241.59,
+              93.26,
+              304.36,
+              167.63
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 18,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6184,
+            "bbox_xyxy": [
+              241.58,
+              93.01,
+              304.24,
+              167.76
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 19,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.659,
+            "bbox_xyxy": [
+              241.89,
+              93.1,
+              304.08,
+              167.66
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 20,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6536,
+            "bbox_xyxy": [
+              241.83,
+              92.87,
+              304.08,
+              168.23
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4091,
+            "bbox_xyxy": [
+              2.16,
+              38.58,
+              573.47,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 21,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5821,
+            "bbox_xyxy": [
+              241.43,
+              92.89,
+              304.41,
+              167.66
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 22,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6041,
+            "bbox_xyxy": [
+              241.84,
+              93.4,
+              303.89,
+              167.82
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 23,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.7153,
+            "bbox_xyxy": [
+              241.81,
+              92.92,
+              304.13,
+              168.32
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4036,
+            "bbox_xyxy": [
+              2.75,
+              39.51,
+              569.69,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 24,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.682,
+            "bbox_xyxy": [
+              242.36,
+              92.96,
+              304.37,
+              168.42
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4655,
+            "bbox_xyxy": [
+              0.0,
+              35.35,
+              573.65,
+              479.7
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 25,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.7045,
+            "bbox_xyxy": [
+              241.71,
+              93.23,
+              304.14,
+              167.99
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 26,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6435,
+            "bbox_xyxy": [
+              241.44,
+              93.16,
+              304.23,
+              167.75
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 27,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6118,
+            "bbox_xyxy": [
+              241.82,
+              92.74,
+              304.09,
+              167.9
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 28,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6753,
+            "bbox_xyxy": [
+              242.11,
+              92.84,
+              304.2,
+              168.17
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.408,
+            "bbox_xyxy": [
+              0.81,
+              33.59,
+              573.25,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 29,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6021,
+            "bbox_xyxy": [
+              241.82,
+              92.98,
+              304.61,
+              167.72
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 30,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6442,
+            "bbox_xyxy": [
+              241.94,
+              93.48,
+              304.16,
+              167.58
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 31,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6738,
+            "bbox_xyxy": [
+              241.55,
+              93.28,
+              304.32,
+              167.6
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 32,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6401,
+            "bbox_xyxy": [
+              241.51,
+              92.84,
+              304.14,
+              167.36
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 33,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6109,
+            "bbox_xyxy": [
+              241.6,
+              92.57,
+              304.35,
+              167.64
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4165,
+            "bbox_xyxy": [
+              2.71,
+              34.33,
+              574.68,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 34,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.631,
+            "bbox_xyxy": [
+              241.88,
+              93.4,
+              304.33,
+              167.56
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 35,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5592,
+            "bbox_xyxy": [
+              241.8,
+              93.79,
+              304.26,
+              167.3
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 36,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6556,
+            "bbox_xyxy": [
+              241.65,
+              93.41,
+              304.28,
+              167.53
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 37,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6462,
+            "bbox_xyxy": [
+              241.34,
+              93.1,
+              304.43,
+              167.58
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 38,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6419,
+            "bbox_xyxy": [
+              241.66,
+              92.94,
+              304.54,
+              167.51
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 39,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6618,
+            "bbox_xyxy": [
+              241.82,
+              93.64,
+              304.61,
+              167.81
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 40,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6682,
+            "bbox_xyxy": [
+              241.68,
+              93.27,
+              304.13,
+              167.79
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 41,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6077,
+            "bbox_xyxy": [
+              241.83,
+              93.55,
+              304.38,
+              167.83
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 42,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6349,
+            "bbox_xyxy": [
+              241.31,
+              92.83,
+              304.14,
+              167.46
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 43,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6285,
+            "bbox_xyxy": [
+              241.76,
+              93.52,
+              304.17,
+              167.59
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 44,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6014,
+            "bbox_xyxy": [
+              241.63,
+              93.24,
+              304.5,
+              167.67
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 45,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.65,
+            "bbox_xyxy": [
+              241.57,
+              93.45,
+              304.45,
+              167.56
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 46,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6595,
+            "bbox_xyxy": [
+              241.82,
+              93.29,
+              304.14,
+              167.97
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 47,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6535,
+            "bbox_xyxy": [
+              242.21,
+              93.04,
+              304.19,
+              168.21
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4309,
+            "bbox_xyxy": [
+              6.24,
+              39.14,
+              573.23,
+              479.94
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 48,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.634,
+            "bbox_xyxy": [
+              242.12,
+              92.88,
+              304.22,
+              167.81
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 49,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6019,
+            "bbox_xyxy": [
+              241.77,
+              93.54,
+              304.02,
+              167.56
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 50,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6182,
+            "bbox_xyxy": [
+              241.71,
+              93.24,
+              304.29,
+              167.45
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 51,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6471,
+            "bbox_xyxy": [
+              241.58,
+              93.03,
+              304.28,
+              167.75
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 52,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6286,
+            "bbox_xyxy": [
+              241.95,
+              93.36,
+              304.14,
+              167.73
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4862,
+            "bbox_xyxy": [
+              4.44,
+              38.37,
+              573.32,
+              479.75
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 53,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6367,
+            "bbox_xyxy": [
+              241.77,
+              93.19,
+              304.29,
+              167.64
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 54,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6543,
+            "bbox_xyxy": [
+              241.73,
+              93.1,
+              304.14,
+              167.53
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 55,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6081,
+            "bbox_xyxy": [
+              242.3,
+              92.85,
+              303.94,
+              168.17
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.452,
+            "bbox_xyxy": [
+              3.1,
+              27.47,
+              568.77,
+              479.13
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 56,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6094,
+            "bbox_xyxy": [
+              241.81,
+              93.42,
+              304.35,
+              167.51
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 57,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6053,
+            "bbox_xyxy": [
+              242.01,
+              93.4,
+              304.2,
+              167.61
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 58,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5885,
+            "bbox_xyxy": [
+              241.73,
+              93.48,
+              304.13,
+              167.75
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 59,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6127,
+            "bbox_xyxy": [
+              241.46,
+              93.14,
+              304.07,
+              167.73
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 60,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.6389,
+            "bbox_xyxy": [
+              241.8,
+              93.47,
+              304.22,
+              167.64
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3a6e87ec5ac1",
+    "class": "person",
+    "avg_confidence": 0.0075,
+    "image": "images/3a6e87ec5ac1.jpg",
+    "frame_count": 60,
+    "representative_frame": 60,
+    "classes": [
+      {
+        "class": "person",
+        "avg_confidence": 0.0075,
+        "frames_detected": 1,
+        "detection_count": 1
+      },
+      {
+        "class": "dining table",
+        "avg_confidence": 0.0069,
+        "frames_detected": 1,
+        "detection_count": 1
+      }
+    ],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": []
+      },
+      {
+        "frame_index": 2,
+        "detections": []
+      },
+      {
+        "frame_index": 3,
+        "detections": []
+      },
+      {
+        "frame_index": 4,
+        "detections": []
+      },
+      {
+        "frame_index": 5,
+        "detections": []
+      },
+      {
+        "frame_index": 6,
+        "detections": []
+      },
+      {
+        "frame_index": 7,
+        "detections": []
+      },
+      {
+        "frame_index": 8,
+        "detections": []
+      },
+      {
+        "frame_index": 9,
+        "detections": []
+      },
+      {
+        "frame_index": 10,
+        "detections": []
+      },
+      {
+        "frame_index": 11,
+        "detections": []
+      },
+      {
+        "frame_index": 12,
+        "detections": []
+      },
+      {
+        "frame_index": 13,
+        "detections": []
+      },
+      {
+        "frame_index": 14,
+        "detections": []
+      },
+      {
+        "frame_index": 15,
+        "detections": []
+      },
+      {
+        "frame_index": 16,
+        "detections": []
+      },
+      {
+        "frame_index": 17,
+        "detections": []
+      },
+      {
+        "frame_index": 18,
+        "detections": []
+      },
+      {
+        "frame_index": 19,
+        "detections": []
+      },
+      {
+        "frame_index": 20,
+        "detections": []
+      },
+      {
+        "frame_index": 21,
+        "detections": []
+      },
+      {
+        "frame_index": 22,
+        "detections": []
+      },
+      {
+        "frame_index": 23,
+        "detections": []
+      },
+      {
+        "frame_index": 24,
+        "detections": []
+      },
+      {
+        "frame_index": 25,
+        "detections": []
+      },
+      {
+        "frame_index": 26,
+        "detections": []
+      },
+      {
+        "frame_index": 27,
+        "detections": []
+      },
+      {
+        "frame_index": 28,
+        "detections": []
+      },
+      {
+        "frame_index": 29,
+        "detections": []
+      },
+      {
+        "frame_index": 30,
+        "detections": []
+      },
+      {
+        "frame_index": 31,
+        "detections": []
+      },
+      {
+        "frame_index": 32,
+        "detections": []
+      },
+      {
+        "frame_index": 33,
+        "detections": []
+      },
+      {
+        "frame_index": 34,
+        "detections": []
+      },
+      {
+        "frame_index": 35,
+        "detections": []
+      },
+      {
+        "frame_index": 36,
+        "detections": []
+      },
+      {
+        "frame_index": 37,
+        "detections": []
+      },
+      {
+        "frame_index": 38,
+        "detections": []
+      },
+      {
+        "frame_index": 39,
+        "detections": []
+      },
+      {
+        "frame_index": 40,
+        "detections": []
+      },
+      {
+        "frame_index": 41,
+        "detections": []
+      },
+      {
+        "frame_index": 42,
+        "detections": []
+      },
+      {
+        "frame_index": 43,
+        "detections": []
+      },
+      {
+        "frame_index": 44,
+        "detections": []
+      },
+      {
+        "frame_index": 45,
+        "detections": []
+      },
+      {
+        "frame_index": 46,
+        "detections": []
+      },
+      {
+        "frame_index": 47,
+        "detections": []
+      },
+      {
+        "frame_index": 48,
+        "detections": []
+      },
+      {
+        "frame_index": 49,
+        "detections": []
+      },
+      {
+        "frame_index": 50,
+        "detections": []
+      },
+      {
+        "frame_index": 51,
+        "detections": []
+      },
+      {
+        "frame_index": 52,
+        "detections": []
+      },
+      {
+        "frame_index": 53,
+        "detections": []
+      },
+      {
+        "frame_index": 54,
+        "detections": []
+      },
+      {
+        "frame_index": 55,
+        "detections": []
+      },
+      {
+        "frame_index": 56,
+        "detections": []
+      },
+      {
+        "frame_index": 57,
+        "detections": []
+      },
+      {
+        "frame_index": 58,
+        "detections": []
+      },
+      {
+        "frame_index": 59,
+        "detections": [
+          {
+            "class": "dining table",
+            "confidence": 0.4123,
+            "bbox_xyxy": [
+              0.0,
+              32.02,
+              575.48,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 60,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4496,
+            "bbox_xyxy": [
+              0.4,
+              121.79,
+              80.13,
+              185.94
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24fa1ed03571",
+    "class": "book",
+    "avg_confidence": 0.0068,
+    "image": "images/24fa1ed03571.jpg",
+    "frame_count": 60,
+    "representative_frame": 14,
+    "classes": [
+      {
+        "class": "book",
+        "avg_confidence": 0.0068,
+        "frames_detected": 1,
+        "detection_count": 1
+      }
+    ],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": []
+      },
+      {
+        "frame_index": 2,
+        "detections": []
+      },
+      {
+        "frame_index": 3,
+        "detections": []
+      },
+      {
+        "frame_index": 4,
+        "detections": []
+      },
+      {
+        "frame_index": 5,
+        "detections": []
+      },
+      {
+        "frame_index": 6,
+        "detections": []
+      },
+      {
+        "frame_index": 7,
+        "detections": []
+      },
+      {
+        "frame_index": 8,
+        "detections": []
+      },
+      {
+        "frame_index": 9,
+        "detections": []
+      },
+      {
+        "frame_index": 10,
+        "detections": []
+      },
+      {
+        "frame_index": 11,
+        "detections": []
+      },
+      {
+        "frame_index": 12,
+        "detections": []
+      },
+      {
+        "frame_index": 13,
+        "detections": []
+      },
+      {
+        "frame_index": 14,
+        "detections": [
+          {
+            "class": "book",
+            "confidence": 0.4064,
+            "bbox_xyxy": [
+              0.24,
+              182.99,
+              110.34,
+              479.26
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 15,
+        "detections": []
+      },
+      {
+        "frame_index": 16,
+        "detections": []
+      },
+      {
+        "frame_index": 17,
+        "detections": []
+      },
+      {
+        "frame_index": 18,
+        "detections": []
+      },
+      {
+        "frame_index": 19,
+        "detections": []
+      },
+      {
+        "frame_index": 20,
+        "detections": []
+      },
+      {
+        "frame_index": 21,
+        "detections": []
+      },
+      {
+        "frame_index": 22,
+        "detections": []
+      },
+      {
+        "frame_index": 23,
+        "detections": []
+      },
+      {
+        "frame_index": 24,
+        "detections": []
+      },
+      {
+        "frame_index": 25,
+        "detections": []
+      },
+      {
+        "frame_index": 26,
+        "detections": []
+      },
+      {
+        "frame_index": 27,
+        "detections": []
+      },
+      {
+        "frame_index": 28,
+        "detections": []
+      },
+      {
+        "frame_index": 29,
+        "detections": []
+      },
+      {
+        "frame_index": 30,
+        "detections": []
+      },
+      {
+        "frame_index": 31,
+        "detections": []
+      },
+      {
+        "frame_index": 32,
+        "detections": []
+      },
+      {
+        "frame_index": 33,
+        "detections": []
+      },
+      {
+        "frame_index": 34,
+        "detections": []
+      },
+      {
+        "frame_index": 35,
+        "detections": []
+      },
+      {
+        "frame_index": 36,
+        "detections": []
+      },
+      {
+        "frame_index": 37,
+        "detections": []
+      },
+      {
+        "frame_index": 38,
+        "detections": []
+      },
+      {
+        "frame_index": 39,
+        "detections": []
+      },
+      {
+        "frame_index": 40,
+        "detections": []
+      },
+      {
+        "frame_index": 41,
+        "detections": []
+      },
+      {
+        "frame_index": 42,
+        "detections": []
+      },
+      {
+        "frame_index": 43,
+        "detections": []
+      },
+      {
+        "frame_index": 44,
+        "detections": []
+      },
+      {
+        "frame_index": 45,
+        "detections": []
+      },
+      {
+        "frame_index": 46,
+        "detections": []
+      },
+      {
+        "frame_index": 47,
+        "detections": []
+      },
+      {
+        "frame_index": 48,
+        "detections": []
+      },
+      {
+        "frame_index": 49,
+        "detections": []
+      },
+      {
+        "frame_index": 50,
+        "detections": []
+      },
+      {
+        "frame_index": 51,
+        "detections": []
+      },
+      {
+        "frame_index": 52,
+        "detections": []
+      },
+      {
+        "frame_index": 53,
+        "detections": []
+      },
+      {
+        "frame_index": 54,
+        "detections": []
+      },
+      {
+        "frame_index": 55,
+        "detections": []
+      },
+      {
+        "frame_index": 56,
+        "detections": []
+      },
+      {
+        "frame_index": 57,
+        "detections": []
+      },
+      {
+        "frame_index": 58,
+        "detections": []
+      },
+      {
+        "frame_index": 59,
+        "detections": []
+      },
+      {
+        "frame_index": 60,
+        "detections": []
+      }
+    ]
+  },
+  {
+    "id": "6e52b259c055",
+    "class": "person",
+    "avg_confidence": 0.0429,
+    "image": "images/6e52b259c055.jpg",
+    "frame_count": 60,
+    "representative_frame": 55,
+    "classes": [
+      {
+        "class": "person",
+        "avg_confidence": 0.0429,
+        "frames_detected": 5,
+        "detection_count": 5
+      },
+      {
+        "class": "dining table",
+        "avg_confidence": 0.0075,
+        "frames_detected": 1,
+        "detection_count": 1
+      }
+    ],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": []
+      },
+      {
+        "frame_index": 2,
+        "detections": []
+      },
+      {
+        "frame_index": 3,
+        "detections": []
+      },
+      {
+        "frame_index": 4,
+        "detections": []
+      },
+      {
+        "frame_index": 5,
+        "detections": []
+      },
+      {
+        "frame_index": 6,
+        "detections": []
+      },
+      {
+        "frame_index": 7,
+        "detections": []
+      },
+      {
+        "frame_index": 8,
+        "detections": []
+      },
+      {
+        "frame_index": 9,
+        "detections": []
+      },
+      {
+        "frame_index": 10,
+        "detections": []
+      },
+      {
+        "frame_index": 11,
+        "detections": []
+      },
+      {
+        "frame_index": 12,
+        "detections": []
+      },
+      {
+        "frame_index": 13,
+        "detections": []
+      },
+      {
+        "frame_index": 14,
+        "detections": []
+      },
+      {
+        "frame_index": 15,
+        "detections": []
+      },
+      {
+        "frame_index": 16,
+        "detections": []
+      },
+      {
+        "frame_index": 17,
+        "detections": []
+      },
+      {
+        "frame_index": 18,
+        "detections": []
+      },
+      {
+        "frame_index": 19,
+        "detections": []
+      },
+      {
+        "frame_index": 20,
+        "detections": []
+      },
+      {
+        "frame_index": 21,
+        "detections": []
+      },
+      {
+        "frame_index": 22,
+        "detections": []
+      },
+      {
+        "frame_index": 23,
+        "detections": []
+      },
+      {
+        "frame_index": 24,
+        "detections": []
+      },
+      {
+        "frame_index": 25,
+        "detections": []
+      },
+      {
+        "frame_index": 26,
+        "detections": []
+      },
+      {
+        "frame_index": 27,
+        "detections": []
+      },
+      {
+        "frame_index": 28,
+        "detections": []
+      },
+      {
+        "frame_index": 29,
+        "detections": []
+      },
+      {
+        "frame_index": 30,
+        "detections": []
+      },
+      {
+        "frame_index": 31,
+        "detections": []
+      },
+      {
+        "frame_index": 32,
+        "detections": []
+      },
+      {
+        "frame_index": 33,
+        "detections": []
+      },
+      {
+        "frame_index": 34,
+        "detections": []
+      },
+      {
+        "frame_index": 35,
+        "detections": []
+      },
+      {
+        "frame_index": 36,
+        "detections": []
+      },
+      {
+        "frame_index": 37,
+        "detections": []
+      },
+      {
+        "frame_index": 38,
+        "detections": []
+      },
+      {
+        "frame_index": 39,
+        "detections": []
+      },
+      {
+        "frame_index": 40,
+        "detections": []
+      },
+      {
+        "frame_index": 41,
+        "detections": []
+      },
+      {
+        "frame_index": 42,
+        "detections": []
+      },
+      {
+        "frame_index": 43,
+        "detections": []
+      },
+      {
+        "frame_index": 44,
+        "detections": []
+      },
+      {
+        "frame_index": 45,
+        "detections": []
+      },
+      {
+        "frame_index": 46,
+        "detections": []
+      },
+      {
+        "frame_index": 47,
+        "detections": []
+      },
+      {
+        "frame_index": 48,
+        "detections": []
+      },
+      {
+        "frame_index": 49,
+        "detections": []
+      },
+      {
+        "frame_index": 50,
+        "detections": []
+      },
+      {
+        "frame_index": 51,
+        "detections": []
+      },
+      {
+        "frame_index": 52,
+        "detections": []
+      },
+      {
+        "frame_index": 53,
+        "detections": []
+      },
+      {
+        "frame_index": 54,
+        "detections": []
+      },
+      {
+        "frame_index": 55,
+        "detections": [
+          {
+            "class": "dining table",
+            "confidence": 0.4495,
+            "bbox_xyxy": [
+              0.96,
+              32.5,
+              573.05,
+              480.0
+            ]
+          },
+          {
+            "class": "person",
+            "confidence": 0.4052,
+            "bbox_xyxy": [
+              74.17,
+              0.0,
+              351.58,
+              147.86
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 56,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.5635,
+            "bbox_xyxy": [
+              0.15,
+              0.36,
+              351.59,
+              179.1
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 57,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.6197,
+            "bbox_xyxy": [
+              0.71,
+              0.43,
+              351.36,
+              173.82
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 58,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4987,
+            "bbox_xyxy": [
+              0.61,
+              0.35,
+              354.44,
+              182.02
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 59,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4853,
+            "bbox_xyxy": [
+              0.43,
+              0.37,
+              355.95,
+              189.81
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 60,
+        "detections": []
+      }
+    ]
+  },
+  {
+    "id": "8061473b7067",
+    "class": "none",
+    "avg_confidence": 0.0,
+    "image": "images/8061473b7067.jpg",
+    "frame_count": 60,
+    "representative_frame": 1,
+    "classes": [],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": []
+      },
+      {
+        "frame_index": 2,
+        "detections": []
+      },
+      {
+        "frame_index": 3,
+        "detections": []
+      },
+      {
+        "frame_index": 4,
+        "detections": []
+      },
+      {
+        "frame_index": 5,
+        "detections": []
+      },
+      {
+        "frame_index": 6,
+        "detections": []
+      },
+      {
+        "frame_index": 7,
+        "detections": []
+      },
+      {
+        "frame_index": 8,
+        "detections": []
+      },
+      {
+        "frame_index": 9,
+        "detections": []
+      },
+      {
+        "frame_index": 10,
+        "detections": []
+      },
+      {
+        "frame_index": 11,
+        "detections": []
+      },
+      {
+        "frame_index": 12,
+        "detections": []
+      },
+      {
+        "frame_index": 13,
+        "detections": []
+      },
+      {
+        "frame_index": 14,
+        "detections": []
+      },
+      {
+        "frame_index": 15,
+        "detections": []
+      },
+      {
+        "frame_index": 16,
+        "detections": []
+      },
+      {
+        "frame_index": 17,
+        "detections": []
+      },
+      {
+        "frame_index": 18,
+        "detections": []
+      },
+      {
+        "frame_index": 19,
+        "detections": []
+      },
+      {
+        "frame_index": 20,
+        "detections": []
+      },
+      {
+        "frame_index": 21,
+        "detections": []
+      },
+      {
+        "frame_index": 22,
+        "detections": []
+      },
+      {
+        "frame_index": 23,
+        "detections": []
+      },
+      {
+        "frame_index": 24,
+        "detections": []
+      },
+      {
+        "frame_index": 25,
+        "detections": []
+      },
+      {
+        "frame_index": 26,
+        "detections": []
+      },
+      {
+        "frame_index": 27,
+        "detections": []
+      },
+      {
+        "frame_index": 28,
+        "detections": []
+      },
+      {
+        "frame_index": 29,
+        "detections": []
+      },
+      {
+        "frame_index": 30,
+        "detections": []
+      },
+      {
+        "frame_index": 31,
+        "detections": []
+      },
+      {
+        "frame_index": 32,
+        "detections": []
+      },
+      {
+        "frame_index": 33,
+        "detections": []
+      },
+      {
+        "frame_index": 34,
+        "detections": []
+      },
+      {
+        "frame_index": 35,
+        "detections": []
+      },
+      {
+        "frame_index": 36,
+        "detections": []
+      },
+      {
+        "frame_index": 37,
+        "detections": []
+      },
+      {
+        "frame_index": 38,
+        "detections": []
+      },
+      {
+        "frame_index": 39,
+        "detections": []
+      },
+      {
+        "frame_index": 40,
+        "detections": []
+      },
+      {
+        "frame_index": 41,
+        "detections": []
+      },
+      {
+        "frame_index": 42,
+        "detections": []
+      },
+      {
+        "frame_index": 43,
+        "detections": []
+      },
+      {
+        "frame_index": 44,
+        "detections": []
+      },
+      {
+        "frame_index": 45,
+        "detections": []
+      },
+      {
+        "frame_index": 46,
+        "detections": []
+      },
+      {
+        "frame_index": 47,
+        "detections": []
+      },
+      {
+        "frame_index": 48,
+        "detections": []
+      },
+      {
+        "frame_index": 49,
+        "detections": []
+      },
+      {
+        "frame_index": 50,
+        "detections": []
+      },
+      {
+        "frame_index": 51,
+        "detections": []
+      },
+      {
+        "frame_index": 52,
+        "detections": []
+      },
+      {
+        "frame_index": 53,
+        "detections": []
+      },
+      {
+        "frame_index": 54,
+        "detections": []
+      },
+      {
+        "frame_index": 55,
+        "detections": []
+      },
+      {
+        "frame_index": 56,
+        "detections": []
+      },
+      {
+        "frame_index": 57,
+        "detections": []
+      },
+      {
+        "frame_index": 58,
+        "detections": []
+      },
+      {
+        "frame_index": 59,
+        "detections": []
+      },
+      {
+        "frame_index": 60,
+        "detections": []
+      }
+    ]
+  },
+  {
+    "id": "4a6934bce9c1",
+    "class": "cup",
+    "avg_confidence": 0.158,
+    "image": "images/4a6934bce9c1.jpg",
+    "frame_count": 60,
+    "representative_frame": 29,
+    "classes": [
+      {
+        "class": "cup",
+        "avg_confidence": 0.158,
+        "frames_detected": 22,
+        "detection_count": 22
+      }
+    ],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": []
+      },
+      {
+        "frame_index": 2,
+        "detections": []
+      },
+      {
+        "frame_index": 3,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4034,
+            "bbox_xyxy": [
+              230.79,
+              166.64,
+              296.39,
+              239.28
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 4,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4074,
+            "bbox_xyxy": [
+              230.89,
+              166.58,
+              296.39,
+              239.21
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 5,
+        "detections": []
+      },
+      {
+        "frame_index": 6,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.408,
+            "bbox_xyxy": [
+              230.65,
+              166.75,
+              295.76,
+              239.08
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 7,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4498,
+            "bbox_xyxy": [
+              230.85,
+              166.54,
+              296.42,
+              239.12
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 8,
+        "detections": []
+      },
+      {
+        "frame_index": 9,
+        "detections": []
+      },
+      {
+        "frame_index": 10,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4338,
+            "bbox_xyxy": [
+              230.82,
+              166.6,
+              296.58,
+              239.31
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 11,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4613,
+            "bbox_xyxy": [
+              230.57,
+              166.89,
+              295.78,
+              239.21
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 12,
+        "detections": []
+      },
+      {
+        "frame_index": 13,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4034,
+            "bbox_xyxy": [
+              230.76,
+              166.64,
+              296.36,
+              239.29
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 14,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4235,
+            "bbox_xyxy": [
+              230.79,
+              166.79,
+              295.96,
+              239.17
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 15,
+        "detections": []
+      },
+      {
+        "frame_index": 16,
+        "detections": []
+      },
+      {
+        "frame_index": 17,
+        "detections": []
+      },
+      {
+        "frame_index": 18,
+        "detections": []
+      },
+      {
+        "frame_index": 19,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4229,
+            "bbox_xyxy": [
+              230.8,
+              166.61,
+              296.32,
+              239.33
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 20,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4594,
+            "bbox_xyxy": [
+              230.79,
+              166.72,
+              295.86,
+              239.04
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 21,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4636,
+            "bbox_xyxy": [
+              230.87,
+              166.63,
+              296.31,
+              239.45
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 22,
+        "detections": []
+      },
+      {
+        "frame_index": 23,
+        "detections": []
+      },
+      {
+        "frame_index": 24,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4142,
+            "bbox_xyxy": [
+              230.77,
+              166.5,
+              296.43,
+              239.34
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 25,
+        "detections": []
+      },
+      {
+        "frame_index": 26,
+        "detections": []
+      },
+      {
+        "frame_index": 27,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4233,
+            "bbox_xyxy": [
+              230.83,
+              166.54,
+              296.44,
+              239.2
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 28,
+        "detections": []
+      },
+      {
+        "frame_index": 29,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4843,
+            "bbox_xyxy": [
+              230.79,
+              166.52,
+              296.28,
+              239.39
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 30,
+        "detections": []
+      },
+      {
+        "frame_index": 31,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4473,
+            "bbox_xyxy": [
+              230.93,
+              166.54,
+              296.25,
+              239.17
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 32,
+        "detections": []
+      },
+      {
+        "frame_index": 33,
+        "detections": []
+      },
+      {
+        "frame_index": 34,
+        "detections": []
+      },
+      {
+        "frame_index": 35,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4566,
+            "bbox_xyxy": [
+              230.81,
+              166.61,
+              296.45,
+              239.08
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 36,
+        "detections": []
+      },
+      {
+        "frame_index": 37,
+        "detections": []
+      },
+      {
+        "frame_index": 38,
+        "detections": []
+      },
+      {
+        "frame_index": 39,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4098,
+            "bbox_xyxy": [
+              230.7,
+              166.58,
+              296.03,
+              239.16
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 40,
+        "detections": []
+      },
+      {
+        "frame_index": 41,
+        "detections": []
+      },
+      {
+        "frame_index": 42,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4185,
+            "bbox_xyxy": [
+              230.78,
+              166.64,
+              296.41,
+              239.37
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 43,
+        "detections": []
+      },
+      {
+        "frame_index": 44,
+        "detections": []
+      },
+      {
+        "frame_index": 45,
+        "detections": []
+      },
+      {
+        "frame_index": 46,
+        "detections": []
+      },
+      {
+        "frame_index": 47,
+        "detections": []
+      },
+      {
+        "frame_index": 48,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4081,
+            "bbox_xyxy": [
+              230.86,
+              166.55,
+              296.48,
+              239.42
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 49,
+        "detections": []
+      },
+      {
+        "frame_index": 50,
+        "detections": []
+      },
+      {
+        "frame_index": 51,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4386,
+            "bbox_xyxy": [
+              230.78,
+              166.58,
+              296.44,
+              239.18
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 52,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4041,
+            "bbox_xyxy": [
+              230.88,
+              166.74,
+              296.36,
+              239.23
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 53,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4412,
+            "bbox_xyxy": [
+              230.82,
+              166.51,
+              296.69,
+              239.54
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 54,
+        "detections": []
+      },
+      {
+        "frame_index": 55,
+        "detections": []
+      },
+      {
+        "frame_index": 56,
+        "detections": []
+      },
+      {
+        "frame_index": 57,
+        "detections": []
+      },
+      {
+        "frame_index": 58,
+        "detections": []
+      },
+      {
+        "frame_index": 59,
+        "detections": []
+      },
+      {
+        "frame_index": 60,
+        "detections": []
+      }
+    ]
+  },
+  {
+    "id": "c368c270834f",
+    "class": "cup",
+    "avg_confidence": 0.478,
+    "image": "images/c368c270834f.jpg",
+    "frame_count": 60,
+    "representative_frame": 8,
+    "classes": [
+      {
+        "class": "cup",
+        "avg_confidence": 0.478,
+        "frames_detected": 60,
+        "detection_count": 63
+      },
+      {
+        "class": "dining table",
+        "avg_confidence": 0.3486,
+        "frames_detected": 47,
+        "detection_count": 47
+      },
+      {
+        "class": "book",
+        "avg_confidence": 0.0204,
+        "frames_detected": 3,
+        "detection_count": 3
+      }
+    ],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5191,
+            "bbox_xyxy": [
+              227.55,
+              161.46,
+              330.64,
+              260.01
+            ]
+          },
+          {
+            "class": "book",
+            "confidence": 0.4162,
+            "bbox_xyxy": [
+              0.25,
+              183.73,
+              110.43,
+              479.34
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 2,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.541,
+            "bbox_xyxy": [
+              227.27,
+              161.24,
+              330.73,
+              259.31
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4738,
+            "bbox_xyxy": [
+              6.23,
+              18.69,
+              581.91,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 3,
+        "detections": [
+          {
+            "class": "dining table",
+            "confidence": 0.4582,
+            "bbox_xyxy": [
+              7.1,
+              21.51,
+              584.67,
+              480.0
+            ]
+          },
+          {
+            "class": "cup",
+            "confidence": 0.4539,
+            "bbox_xyxy": [
+              227.33,
+              161.6,
+              330.03,
+              260.13
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 4,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5337,
+            "bbox_xyxy": [
+              227.21,
+              161.56,
+              330.67,
+              260.23
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4679,
+            "bbox_xyxy": [
+              6.94,
+              24.2,
+              582.08,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 5,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4673,
+            "bbox_xyxy": [
+              227.58,
+              161.61,
+              330.12,
+              260.27
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4514,
+            "bbox_xyxy": [
+              4.71,
+              27.27,
+              583.25,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 6,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4532,
+            "bbox_xyxy": [
+              227.55,
+              161.61,
+              330.39,
+              260.09
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 7,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5066,
+            "bbox_xyxy": [
+              227.61,
+              161.66,
+              330.16,
+              260.31
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4593,
+            "bbox_xyxy": [
+              3.35,
+              14.8,
+              584.75,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 8,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5518,
+            "bbox_xyxy": [
+              227.6,
+              161.35,
+              330.42,
+              259.96
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.5484,
+            "bbox_xyxy": [
+              3.02,
+              14.46,
+              586.71,
+              480.0
+            ]
+          },
+          {
+            "class": "book",
+            "confidence": 0.4056,
+            "bbox_xyxy": [
+              0.27,
+              183.64,
+              109.52,
+              479.48
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 9,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.46,
+            "bbox_xyxy": [
+              227.34,
+              161.48,
+              330.2,
+              260.06
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4227,
+            "bbox_xyxy": [
+              4.87,
+              26.5,
+              583.52,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 10,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.458,
+            "bbox_xyxy": [
+              227.55,
+              161.49,
+              329.99,
+              260.33
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.441,
+            "bbox_xyxy": [
+              7.51,
+              20.78,
+              580.26,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 11,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4216,
+            "bbox_xyxy": [
+              227.46,
+              161.55,
+              330.31,
+              259.9
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 12,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4711,
+            "bbox_xyxy": [
+              227.36,
+              161.45,
+              330.06,
+              260.13
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4559,
+            "bbox_xyxy": [
+              7.01,
+              21.35,
+              579.34,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 13,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5308,
+            "bbox_xyxy": [
+              227.41,
+              161.53,
+              330.27,
+              260.1
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4244,
+            "bbox_xyxy": [
+              2.14,
+              15.33,
+              590.09,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 14,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4245,
+            "bbox_xyxy": [
+              227.31,
+              161.16,
+              330.31,
+              259.69
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4143,
+            "bbox_xyxy": [
+              6.69,
+              29.07,
+              586.23,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 15,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5142,
+            "bbox_xyxy": [
+              227.47,
+              161.47,
+              330.26,
+              260.04
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4677,
+            "bbox_xyxy": [
+              5.66,
+              22.52,
+              586.41,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 16,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4703,
+            "bbox_xyxy": [
+              227.37,
+              161.53,
+              330.17,
+              259.91
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 17,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4786,
+            "bbox_xyxy": [
+              227.63,
+              161.71,
+              330.24,
+              260.18
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4686,
+            "bbox_xyxy": [
+              3.59,
+              19.19,
+              585.44,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 18,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4665,
+            "bbox_xyxy": [
+              227.52,
+              161.49,
+              330.3,
+              259.98
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4273,
+            "bbox_xyxy": [
+              8.06,
+              23.16,
+              583.56,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 19,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4297,
+            "bbox_xyxy": [
+              227.49,
+              161.65,
+              330.37,
+              259.92
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.405,
+            "bbox_xyxy": [
+              5.82,
+              15.26,
+              585.49,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 20,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.446,
+            "bbox_xyxy": [
+              227.56,
+              161.6,
+              329.9,
+              260.17
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 21,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4955,
+            "bbox_xyxy": [
+              227.68,
+              161.56,
+              329.99,
+              259.99
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4299,
+            "bbox_xyxy": [
+              5.57,
+              21.78,
+              576.64,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 22,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4892,
+            "bbox_xyxy": [
+              227.34,
+              161.46,
+              330.17,
+              260.05
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4575,
+            "bbox_xyxy": [
+              4.67,
+              30.12,
+              582.28,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 23,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4641,
+            "bbox_xyxy": [
+              227.33,
+              161.1,
+              330.5,
+              259.29
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4602,
+            "bbox_xyxy": [
+              9.52,
+              17.42,
+              586.76,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 24,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4611,
+            "bbox_xyxy": [
+              227.59,
+              161.51,
+              330.55,
+              260.04
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 25,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5064,
+            "bbox_xyxy": [
+              227.49,
+              161.74,
+              330.24,
+              259.91
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4514,
+            "bbox_xyxy": [
+              4.38,
+              17.07,
+              580.95,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 26,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5035,
+            "bbox_xyxy": [
+              227.32,
+              161.62,
+              330.42,
+              260.23
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4582,
+            "bbox_xyxy": [
+              5.0,
+              21.77,
+              585.29,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 27,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4783,
+            "bbox_xyxy": [
+              227.1,
+              161.08,
+              330.66,
+              259.5
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4106,
+            "bbox_xyxy": [
+              6.88,
+              24.29,
+              580.36,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 28,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4625,
+            "bbox_xyxy": [
+              227.15,
+              161.57,
+              330.08,
+              260.1
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 29,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.492,
+            "bbox_xyxy": [
+              227.22,
+              161.66,
+              329.98,
+              259.99
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4676,
+            "bbox_xyxy": [
+              5.77,
+              17.0,
+              582.57,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 30,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4433,
+            "bbox_xyxy": [
+              227.47,
+              161.24,
+              330.53,
+              259.39
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.405,
+            "bbox_xyxy": [
+              6.45,
+              28.42,
+              581.26,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 31,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5042,
+            "bbox_xyxy": [
+              227.4,
+              161.68,
+              329.9,
+              260.07
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4605,
+            "bbox_xyxy": [
+              6.84,
+              14.91,
+              584.2,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 32,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4947,
+            "bbox_xyxy": [
+              227.55,
+              161.58,
+              330.03,
+              260.14
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 33,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5348,
+            "bbox_xyxy": [
+              227.5,
+              161.71,
+              329.95,
+              259.76
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4999,
+            "bbox_xyxy": [
+              3.91,
+              26.34,
+              587.51,
+              480.0
+            ]
+          },
+          {
+            "class": "cup",
+            "confidence": 0.4388,
+            "bbox_xyxy": [
+              55.77,
+              102.86,
+              103.01,
+              150.48
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 34,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.527,
+            "bbox_xyxy": [
+              227.41,
+              161.27,
+              330.54,
+              260.22
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4382,
+            "bbox_xyxy": [
+              6.55,
+              24.55,
+              582.41,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 35,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4927,
+            "bbox_xyxy": [
+              227.22,
+              161.23,
+              330.07,
+              259.23
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4467,
+            "bbox_xyxy": [
+              6.71,
+              20.23,
+              584.36,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 36,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4909,
+            "bbox_xyxy": [
+              227.64,
+              161.55,
+              330.16,
+              260.05
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4701,
+            "bbox_xyxy": [
+              2.56,
+              21.67,
+              585.25,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 37,
+        "detections": [
+          {
+            "class": "dining table",
+            "confidence": 0.484,
+            "bbox_xyxy": [
+              6.78,
+              18.71,
+              583.61,
+              480.0
+            ]
+          },
+          {
+            "class": "cup",
+            "confidence": 0.4776,
+            "bbox_xyxy": [
+              227.4,
+              161.35,
+              329.8,
+              260.24
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 38,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4662,
+            "bbox_xyxy": [
+              227.28,
+              161.46,
+              329.95,
+              260.07
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4163,
+            "bbox_xyxy": [
+              8.43,
+              15.68,
+              583.59,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 39,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4889,
+            "bbox_xyxy": [
+              227.32,
+              161.58,
+              330.08,
+              260.08
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4403,
+            "bbox_xyxy": [
+              4.02,
+              20.34,
+              587.02,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 40,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4571,
+            "bbox_xyxy": [
+              227.6,
+              161.74,
+              329.86,
+              259.99
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 41,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4401,
+            "bbox_xyxy": [
+              227.45,
+              161.41,
+              330.11,
+              260.12
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4105,
+            "bbox_xyxy": [
+              9.3,
+              33.55,
+              579.79,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 42,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4323,
+            "bbox_xyxy": [
+              227.52,
+              161.57,
+              329.97,
+              260.17
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4097,
+            "bbox_xyxy": [
+              6.4,
+              30.04,
+              583.26,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 43,
+        "detections": [
+          {
+            "class": "dining table",
+            "confidence": 0.501,
+            "bbox_xyxy": [
+              10.16,
+              30.15,
+              587.23,
+              480.0
+            ]
+          },
+          {
+            "class": "cup",
+            "confidence": 0.4688,
+            "bbox_xyxy": [
+              227.58,
+              161.7,
+              329.83,
+              260.0
+            ]
+          },
+          {
+            "class": "book",
+            "confidence": 0.4005,
+            "bbox_xyxy": [
+              0.25,
+              182.92,
+              109.65,
+              479.39
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 44,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4678,
+            "bbox_xyxy": [
+              227.19,
+              161.25,
+              330.04,
+              259.39
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.447,
+            "bbox_xyxy": [
+              7.93,
+              27.06,
+              582.3,
+              480.0
+            ]
+          },
+          {
+            "class": "cup",
+            "confidence": 0.4192,
+            "bbox_xyxy": [
+              55.05,
+              102.86,
+              102.8,
+              150.32
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 45,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4886,
+            "bbox_xyxy": [
+              227.43,
+              161.69,
+              330.31,
+              259.9
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4088,
+            "bbox_xyxy": [
+              6.46,
+              31.03,
+              582.37,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 46,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.493,
+            "bbox_xyxy": [
+              227.36,
+              161.19,
+              330.53,
+              259.61
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 47,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5095,
+            "bbox_xyxy": [
+              227.83,
+              161.61,
+              329.82,
+              260.22
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4322,
+            "bbox_xyxy": [
+              6.01,
+              26.45,
+              581.64,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 48,
+        "detections": [
+          {
+            "class": "dining table",
+            "confidence": 0.4698,
+            "bbox_xyxy": [
+              5.26,
+              24.41,
+              582.29,
+              480.0
+            ]
+          },
+          {
+            "class": "cup",
+            "confidence": 0.4526,
+            "bbox_xyxy": [
+              227.33,
+              161.71,
+              330.36,
+              260.05
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 49,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4509,
+            "bbox_xyxy": [
+              227.47,
+              161.67,
+              329.71,
+              260.26
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4016,
+            "bbox_xyxy": [
+              5.8,
+              21.6,
+              584.56,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 50,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4749,
+            "bbox_xyxy": [
+              227.56,
+              161.67,
+              330.1,
+              260.13
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4341,
+            "bbox_xyxy": [
+              6.72,
+              35.73,
+              583.42,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 51,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4517,
+            "bbox_xyxy": [
+              227.2,
+              161.64,
+              330.06,
+              260.08
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4173,
+            "bbox_xyxy": [
+              7.34,
+              29.93,
+              579.95,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 52,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4558,
+            "bbox_xyxy": [
+              227.56,
+              161.54,
+              330.14,
+              259.91
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 53,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4755,
+            "bbox_xyxy": [
+              227.39,
+              161.67,
+              330.13,
+              259.84
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 54,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4462,
+            "bbox_xyxy": [
+              227.53,
+              161.65,
+              330.46,
+              259.78
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.402,
+            "bbox_xyxy": [
+              8.42,
+              24.64,
+              580.0,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 55,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5256,
+            "bbox_xyxy": [
+              227.47,
+              161.73,
+              330.44,
+              259.95
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4595,
+            "bbox_xyxy": [
+              6.99,
+              28.17,
+              579.6,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 56,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4414,
+            "bbox_xyxy": [
+              227.61,
+              161.57,
+              329.91,
+              260.0
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4332,
+            "bbox_xyxy": [
+              6.06,
+              30.3,
+              582.27,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 57,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4803,
+            "bbox_xyxy": [
+              227.38,
+              161.49,
+              330.19,
+              260.14
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4001,
+            "bbox_xyxy": [
+              7.95,
+              30.86,
+              583.39,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 58,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4193,
+            "bbox_xyxy": [
+              227.24,
+              161.09,
+              330.55,
+              259.34
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 59,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4827,
+            "bbox_xyxy": [
+              227.46,
+              161.42,
+              330.12,
+              260.0
+            ]
+          },
+          {
+            "class": "cup",
+            "confidence": 0.4523,
+            "bbox_xyxy": [
+              55.96,
+              102.98,
+              102.75,
+              150.42
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4499,
+            "bbox_xyxy": [
+              5.11,
+              30.66,
+              580.91,
+              480.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 60,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4976,
+            "bbox_xyxy": [
+              227.5,
+              161.46,
+              330.51,
+              260.29
+            ]
+          },
+          {
+            "class": "dining table",
+            "confidence": 0.4572,
+            "bbox_xyxy": [
+              7.71,
+              31.82,
+              581.79,
+              480.0
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2f8869ad1bda",
+    "class": "cup",
+    "avg_confidence": 0.4798,
+    "image": "images/2f8869ad1bda.jpg",
+    "frame_count": 60,
+    "representative_frame": 58,
+    "classes": [
+      {
+        "class": "cup",
+        "avg_confidence": 0.4798,
+        "frames_detected": 60,
+        "detection_count": 60
+      }
+    ],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5372,
+            "bbox_xyxy": [
+              210.0,
+              144.58,
+              313.34,
+              243.63
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 2,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4365,
+            "bbox_xyxy": [
+              210.03,
+              144.71,
+              313.68,
+              244.96
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 3,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4451,
+            "bbox_xyxy": [
+              210.01,
+              144.65,
+              313.4,
+              244.27
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 4,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4448,
+            "bbox_xyxy": [
+              210.05,
+              144.6,
+              313.51,
+              244.1
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 5,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4966,
+            "bbox_xyxy": [
+              210.0,
+              144.61,
+              313.22,
+              243.57
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 6,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.468,
+            "bbox_xyxy": [
+              210.06,
+              144.55,
+              313.4,
+              244.11
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 7,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4851,
+            "bbox_xyxy": [
+              210.02,
+              144.74,
+              313.27,
+              243.71
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 8,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4913,
+            "bbox_xyxy": [
+              209.88,
+              144.61,
+              313.27,
+              243.85
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 9,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5143,
+            "bbox_xyxy": [
+              210.05,
+              144.69,
+              313.34,
+              242.9
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 10,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4636,
+            "bbox_xyxy": [
+              209.91,
+              144.68,
+              313.37,
+              244.19
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 11,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4249,
+            "bbox_xyxy": [
+              210.08,
+              144.64,
+              313.17,
+              243.49
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 12,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5033,
+            "bbox_xyxy": [
+              209.94,
+              144.57,
+              313.35,
+              243.99
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 13,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4643,
+            "bbox_xyxy": [
+              209.94,
+              144.59,
+              313.75,
+              244.03
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 14,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4772,
+            "bbox_xyxy": [
+              210.17,
+              144.7,
+              313.19,
+              243.62
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 15,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4434,
+            "bbox_xyxy": [
+              210.0,
+              144.64,
+              313.1,
+              243.52
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 16,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4688,
+            "bbox_xyxy": [
+              210.03,
+              144.69,
+              313.24,
+              243.89
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 17,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4724,
+            "bbox_xyxy": [
+              209.94,
+              144.72,
+              313.39,
+              244.22
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 18,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4574,
+            "bbox_xyxy": [
+              210.1,
+              144.82,
+              313.34,
+              244.01
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 19,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4693,
+            "bbox_xyxy": [
+              210.03,
+              144.77,
+              313.18,
+              243.25
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 20,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4633,
+            "bbox_xyxy": [
+              210.05,
+              144.69,
+              313.3,
+              243.62
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 21,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4836,
+            "bbox_xyxy": [
+              210.05,
+              144.58,
+              313.02,
+              242.76
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 22,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4689,
+            "bbox_xyxy": [
+              209.88,
+              144.66,
+              313.18,
+              243.94
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 23,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4815,
+            "bbox_xyxy": [
+              210.09,
+              144.66,
+              313.12,
+              243.23
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 24,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4786,
+            "bbox_xyxy": [
+              210.07,
+              144.7,
+              313.39,
+              243.7
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 25,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4498,
+            "bbox_xyxy": [
+              210.24,
+              144.64,
+              313.36,
+              243.82
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 26,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4852,
+            "bbox_xyxy": [
+              210.13,
+              144.67,
+              313.11,
+              243.09
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 27,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4821,
+            "bbox_xyxy": [
+              209.99,
+              144.74,
+              313.2,
+              243.25
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 28,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4748,
+            "bbox_xyxy": [
+              210.01,
+              144.71,
+              313.15,
+              243.28
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 29,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4471,
+            "bbox_xyxy": [
+              210.16,
+              144.59,
+              313.25,
+              243.74
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 30,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4921,
+            "bbox_xyxy": [
+              209.98,
+              144.62,
+              313.32,
+              244.1
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 31,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4993,
+            "bbox_xyxy": [
+              210.02,
+              144.72,
+              313.22,
+              243.72
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 32,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4788,
+            "bbox_xyxy": [
+              210.07,
+              144.71,
+              313.27,
+              243.68
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 33,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4932,
+            "bbox_xyxy": [
+              209.9,
+              144.72,
+              313.24,
+              243.26
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 34,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4787,
+            "bbox_xyxy": [
+              210.02,
+              144.77,
+              313.6,
+              243.88
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 35,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4927,
+            "bbox_xyxy": [
+              210.08,
+              144.74,
+              313.15,
+              243.35
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 36,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4461,
+            "bbox_xyxy": [
+              210.07,
+              144.74,
+              313.29,
+              243.74
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 37,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4957,
+            "bbox_xyxy": [
+              210.06,
+              144.71,
+              312.88,
+              243.0
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 38,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4574,
+            "bbox_xyxy": [
+              210.0,
+              144.65,
+              313.44,
+              244.23
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 39,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4502,
+            "bbox_xyxy": [
+              210.21,
+              144.71,
+              313.22,
+              243.38
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 40,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4657,
+            "bbox_xyxy": [
+              210.01,
+              144.77,
+              313.24,
+              243.87
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 41,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5028,
+            "bbox_xyxy": [
+              209.93,
+              144.61,
+              313.3,
+              243.81
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 42,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4685,
+            "bbox_xyxy": [
+              209.98,
+              144.54,
+              313.44,
+              244.42
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 43,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4665,
+            "bbox_xyxy": [
+              210.02,
+              144.77,
+              313.37,
+              243.79
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 44,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4985,
+            "bbox_xyxy": [
+              210.14,
+              144.7,
+              313.18,
+              243.57
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 45,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4481,
+            "bbox_xyxy": [
+              210.07,
+              144.78,
+              313.43,
+              244.17
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 46,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4854,
+            "bbox_xyxy": [
+              210.03,
+              144.78,
+              313.2,
+              243.02
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 47,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5087,
+            "bbox_xyxy": [
+              210.17,
+              144.6,
+              313.21,
+              243.15
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 48,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5219,
+            "bbox_xyxy": [
+              210.05,
+              144.7,
+              313.28,
+              243.83
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 49,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4822,
+            "bbox_xyxy": [
+              210.2,
+              144.69,
+              313.2,
+              243.51
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 50,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.489,
+            "bbox_xyxy": [
+              209.99,
+              144.76,
+              313.31,
+              243.31
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 51,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4876,
+            "bbox_xyxy": [
+              209.93,
+              144.7,
+              313.29,
+              243.73
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 52,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5101,
+            "bbox_xyxy": [
+              210.09,
+              144.66,
+              313.2,
+              243.29
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 53,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4684,
+            "bbox_xyxy": [
+              210.11,
+              144.61,
+              313.05,
+              242.93
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 54,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4752,
+            "bbox_xyxy": [
+              210.17,
+              144.61,
+              313.45,
+              243.8
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 55,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5067,
+            "bbox_xyxy": [
+              209.99,
+              144.7,
+              313.14,
+              243.33
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 56,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4905,
+            "bbox_xyxy": [
+              209.96,
+              144.56,
+              313.54,
+              245.11
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 57,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5154,
+            "bbox_xyxy": [
+              210.14,
+              144.66,
+              313.46,
+              243.57
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 58,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5418,
+            "bbox_xyxy": [
+              210.02,
+              144.54,
+              313.06,
+              242.81
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 59,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.4896,
+            "bbox_xyxy": [
+              209.99,
+              144.63,
+              313.31,
+              243.36
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 60,
+        "detections": [
+          {
+            "class": "cup",
+            "confidence": 0.5039,
+            "bbox_xyxy": [
+              210.02,
+              144.7,
+              313.29,
+              243.53
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cff9db49f5d8",
+    "class": "person",
+    "avg_confidence": 0.059,
+    "image": "images/cff9db49f5d8.jpg",
+    "frame_count": 60,
+    "representative_frame": 7,
+    "classes": [
+      {
+        "class": "person",
+        "avg_confidence": 0.059,
+        "frames_detected": 8,
+        "detection_count": 9
+      },
+      {
+        "class": "keyboard",
+        "avg_confidence": 0.0148,
+        "frames_detected": 2,
+        "detection_count": 2
+      }
+    ],
+    "frames": [
+      {
+        "frame_index": 1,
+        "detections": []
+      },
+      {
+        "frame_index": 2,
+        "detections": []
+      },
+      {
+        "frame_index": 3,
+        "detections": []
+      },
+      {
+        "frame_index": 4,
+        "detections": []
+      },
+      {
+        "frame_index": 5,
+        "detections": [
+          {
+            "class": "keyboard",
+            "confidence": 0.4749,
+            "bbox_xyxy": [
+              0.72,
+              0.33,
+              97.54,
+              56.53
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 6,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4141,
+            "bbox_xyxy": [
+              0.28,
+              61.19,
+              116.62,
+              186.25
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 7,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4591,
+            "bbox_xyxy": [
+              74.62,
+              0.0,
+              351.54,
+              154.35
+            ]
+          },
+          {
+            "class": "person",
+            "confidence": 0.4546,
+            "bbox_xyxy": [
+              0.22,
+              62.37,
+              122.9,
+              187.7
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 8,
+        "detections": []
+      },
+      {
+        "frame_index": 9,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4287,
+            "bbox_xyxy": [
+              0.44,
+              94.61,
+              138.96,
+              186.79
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 10,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4678,
+            "bbox_xyxy": [
+              0.4,
+              98.8,
+              143.95,
+              195.1
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 11,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4436,
+            "bbox_xyxy": [
+              0.44,
+              101.71,
+              143.42,
+              196.88
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 12,
+        "detections": []
+      },
+      {
+        "frame_index": 13,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4366,
+            "bbox_xyxy": [
+              74.16,
+              0.0,
+              353.93,
+              151.14
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 14,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4503,
+            "bbox_xyxy": [
+              73.94,
+              0.0,
+              351.07,
+              156.26
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 15,
+        "detections": []
+      },
+      {
+        "frame_index": 16,
+        "detections": []
+      },
+      {
+        "frame_index": 17,
+        "detections": [
+          {
+            "class": "person",
+            "confidence": 0.4385,
+            "bbox_xyxy": [
+              74.9,
+              0.0,
+              351.53,
+              143.2
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 18,
+        "detections": []
+      },
+      {
+        "frame_index": 19,
+        "detections": []
+      },
+      {
+        "frame_index": 20,
+        "detections": []
+      },
+      {
+        "frame_index": 21,
+        "detections": []
+      },
+      {
+        "frame_index": 22,
+        "detections": []
+      },
+      {
+        "frame_index": 23,
+        "detections": []
+      },
+      {
+        "frame_index": 24,
+        "detections": []
+      },
+      {
+        "frame_index": 25,
+        "detections": []
+      },
+      {
+        "frame_index": 26,
+        "detections": []
+      },
+      {
+        "frame_index": 27,
+        "detections": []
+      },
+      {
+        "frame_index": 28,
+        "detections": []
+      },
+      {
+        "frame_index": 29,
+        "detections": []
+      },
+      {
+        "frame_index": 30,
+        "detections": []
+      },
+      {
+        "frame_index": 31,
+        "detections": []
+      },
+      {
+        "frame_index": 32,
+        "detections": []
+      },
+      {
+        "frame_index": 33,
+        "detections": []
+      },
+      {
+        "frame_index": 34,
+        "detections": []
+      },
+      {
+        "frame_index": 35,
+        "detections": []
+      },
+      {
+        "frame_index": 36,
+        "detections": []
+      },
+      {
+        "frame_index": 37,
+        "detections": []
+      },
+      {
+        "frame_index": 38,
+        "detections": []
+      },
+      {
+        "frame_index": 39,
+        "detections": []
+      },
+      {
+        "frame_index": 40,
+        "detections": []
+      },
+      {
+        "frame_index": 41,
+        "detections": []
+      },
+      {
+        "frame_index": 42,
+        "detections": []
+      },
+      {
+        "frame_index": 43,
+        "detections": []
+      },
+      {
+        "frame_index": 44,
+        "detections": []
+      },
+      {
+        "frame_index": 45,
+        "detections": []
+      },
+      {
+        "frame_index": 46,
+        "detections": []
+      },
+      {
+        "frame_index": 47,
+        "detections": []
+      },
+      {
+        "frame_index": 48,
+        "detections": []
+      },
+      {
+        "frame_index": 49,
+        "detections": [
+          {
+            "class": "keyboard",
+            "confidence": 0.4107,
+            "bbox_xyxy": [
+              0.4,
+              0.6,
+              97.25,
+              56.01
+            ]
+          }
+        ]
+      },
+      {
+        "frame_index": 50,
+        "detections": []
+      },
+      {
+        "frame_index": 51,
+        "detections": []
+      },
+      {
+        "frame_index": 52,
+        "detections": []
+      },
+      {
+        "frame_index": 53,
+        "detections": []
+      },
+      {
+        "frame_index": 54,
+        "detections": []
+      },
+      {
+        "frame_index": 55,
+        "detections": []
+      },
+      {
+        "frame_index": 56,
+        "detections": []
+      },
+      {
+        "frame_index": 57,
+        "detections": []
+      },
+      {
+        "frame_index": 58,
+        "detections": []
+      },
+      {
+        "frame_index": 59,
+        "detections": []
+      },
+      {
+        "frame_index": 60,
+        "detections": []
+      }
+    ]
+  }
+]
